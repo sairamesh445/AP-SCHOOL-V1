@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <circle cx="60" cy="60" r="58" fill="#FF6B35" stroke="#1B4965" stroke-width="4"/>
+  <circle cx="60" cy="60" r="45" fill="#FFD166"/>
+  <text x="60" y="52" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="bold" fill="#1B4965">AP</text>
+  <text x="60" y="72" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#1B4965">GOVT</text>
+  <path d="M30 85 Q60 95 90 85" stroke="#06D6A0" stroke-width="3" fill="none"/>
+</svg>

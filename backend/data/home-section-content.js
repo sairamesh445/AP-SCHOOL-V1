@@ -1,0 +1,171 @@
+/** Home section content: Constitution Laws & Citizen Welfare Schemes */
+
+export const CONSTITUTION_LAWS_GROUPS = [
+  {
+    subgroup: 'Important Constitutional Principles',
+    subgroupOrder: 1,
+    items: [
+      { title: 'Right to Equality', article: 'Article 14', description: 'Equality before the law and equal protection of the laws within India.' },
+      { title: 'Prohibition of Discrimination', article: 'Article 15', description: 'Prohibits discrimination by the State on grounds of religion, race, caste, sex, or place of birth.' },
+      { title: 'Equality of Opportunity in Public Employment', article: 'Article 16', description: 'Guarantees equality of opportunity in matters of public employment and government jobs.' },
+      { title: 'Abolition of Untouchability', article: 'Article 17', description: 'Abolishes "untouchability" and makes its practice punishable by law.' },
+      { title: 'Freedom of Speech and Expression', article: 'Article 19(1)(a)', description: 'Guarantees freedom of speech and expression, subject to reasonable restrictions under Article 19(2).' },
+      { title: 'Protection of Life and Personal Liberty', article: 'Article 21', description: 'No person shall be deprived of life or personal liberty except according to procedure established by law.' },
+      { title: 'Right to Education', article: 'Article 21A', description: 'Provides free and compulsory education to all children aged 6–14 years.' },
+      { title: 'Protection Against Arrest and Detention', article: 'Article 22', description: 'Provides safeguards against arbitrary arrest and detention, including the right to be informed of grounds of arrest and consult a lawyer.' },
+      { title: 'Freedom of Religion', article: 'Article 25', description: 'Freedom of conscience and the right to freely profess, practice, and propagate religion, subject to public order, morality, and health.' },
+      { title: 'Right to Constitutional Remedies', article: 'Article 32', description: 'Empowers individuals to approach the Supreme Court for enforcement of Fundamental Rights.' }
+    ]
+  },
+  {
+    subgroup: 'Important BNS Sections (New Criminal Law)',
+    subgroupOrder: 2,
+    items: [
+      { title: '63', description: 'Rape' },
+      { title: '64', description: 'Punishment for rape' },
+      { title: '65', description: 'Rape of woman under 16 years' },
+      { title: '66', description: 'Rape of woman under 12 years' },
+      { title: '67', description: 'Sexual intercourse by husband during separation' },
+      { title: '69', description: 'Sexual intercourse by deceitful means, false promise of marriage, etc.' },
+      { title: '74', description: 'Assault or criminal force to woman with intent to outrage her modesty' },
+      { title: '79', description: 'Word, gesture or act intended to insult modesty of a woman' },
+      { title: '80', description: 'Dowry death' },
+      { title: '85', description: 'Cruelty by husband or relatives of husband' },
+      { title: '100', description: 'Culpable homicide' },
+      { title: '101', description: 'Murder' },
+      { title: '103', description: 'Punishment for murder' },
+      { title: '105', description: 'Culpable homicide not amounting to murder' },
+      { title: '106', description: 'Causing death by negligence' },
+      { title: '108', description: 'Abetment of suicide' },
+      { title: '109', description: 'Attempt to murder' },
+      { title: '114', description: 'Hurt' },
+      { title: '115', description: 'Voluntarily causing hurt' },
+      { title: '117', description: 'Grievous hurt' },
+      { title: '118', description: 'Voluntarily causing grievous hurt or hurt by dangerous weapons/means' },
+      { title: '124', description: 'Acid attack causing grievous hurt' },
+      { title: '126', description: 'Wrongful restraint and wrongful confinement' },
+      { title: '127', description: 'Wrongful confinement for three or more days' },
+      { title: '137', description: 'Trafficking of persons' },
+      { title: '138', description: 'Exploitation of trafficked person' },
+      { title: '140', description: 'Snatching' },
+      { title: '147', description: 'Waging war against Government of India' },
+      { title: '152', description: 'Acts endangering sovereignty, unity and integrity of India' },
+      { title: '189', description: 'Unlawful assembly' },
+      { title: '191', description: 'Rioting' },
+      { title: '196', description: 'Promoting enmity between groups' },
+      { title: '197', description: 'Imputations prejudicial to national integration' },
+      { title: '299', description: 'Deliberate acts intended to outrage religious feelings' },
+      { title: '303', description: 'Theft' },
+      { title: '304', description: 'Snatching' },
+      { title: '305', description: 'Theft in dwelling house/place of worship/transport' },
+      { title: '308', description: 'Extortion' },
+      { title: '309', description: 'Robbery' },
+      { title: '310', description: 'Dacoity' },
+      { title: '311', description: 'Robbery or dacoity with attempt to cause death or grievous hurt' },
+      { title: '316', description: 'Criminal breach of trust' },
+      { title: '317', description: 'Receiving stolen property' },
+      { title: '318', description: 'Cheating' },
+      { title: '319', description: 'Cheating by personation' },
+      { title: '324', description: 'Mischief' },
+      { title: '329', description: 'Criminal trespass' },
+      { title: '331', description: 'House-trespass' },
+      { title: '335', description: 'Making false document' },
+      { title: '336', description: 'Forgery' },
+      { title: '338', description: 'Forgery of valuable security, will, etc.' },
+      { title: '340', description: 'Using forged document as genuine' },
+      { title: '351', description: 'Criminal intimidation' },
+      { title: '352', description: 'Intentional insult with intent to provoke breach of peace' },
+      { title: '353', description: 'Public mischief' },
+      { title: '356', description: 'Defamation' },
+      { title: '357', description: 'Breach of contract to attend on helpless person' }
+    ]
+  },
+  {
+    subgroup: 'Updated Citizen Protection Laws (India)',
+    subgroupOrder: 3,
+    items: [
+      { title: 'Right to Information Act, 2005 (RTI Act)', description: 'Enables citizens to obtain information from public authorities and promotes transparency and accountability in government.' },
+      { title: 'Consumer Protection Act, 2019', description: 'Protects consumers against unfair trade practices, defective products, and deficient services.' },
+      { title: 'Information Technology Act, 2000 (IT Act)', description: 'Governs electronic records, digital transactions, cybersecurity, and cyber offences.' },
+      { title: 'Protection of Children from Sexual Offences Act, 2012 (POCSO Act)', description: 'Protects children from sexual assault, sexual harassment, and pornography-related offences.' },
+      { title: 'Protection of Women from Domestic Violence Act, 2005', description: 'Provides civil remedies and protection for women facing domestic violence.' },
+      { title: 'Motor Vehicles Act, 1988 (as amended)', description: 'Regulates motor vehicles, driving licences, road safety, traffic rules, and penalties.' },
+      { title: 'Juvenile Justice (Care and Protection of Children) Act, 2015', description: 'Governs matters relating to children in conflict with law and children requiring care and protection.' },
+      { title: 'Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989', description: 'Prevents atrocities, discrimination, and violence against Scheduled Castes and Scheduled Tribes.' },
+      { title: 'Legal Services Authorities Act, 1987', description: 'Provides free legal aid and ensures access to justice for eligible persons.' },
+      { title: 'Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013', description: 'Protects women from sexual harassment at workplaces and establishes complaint mechanisms.' },
+      { title: 'Persons with Disabilities (Rights of Persons with Disabilities) Act, 2016', description: 'Protects the rights and dignity of persons with disabilities and promotes equal opportunities.' },
+      { title: 'Mental Healthcare Act, 2017', description: 'Protects rights of persons with mental illness and guarantees access to mental healthcare services.' },
+      { title: 'Whistle Blowers Protection Act, 2014', description: 'Protects individuals who report corruption, misuse of power, or public wrongdoing.' },
+      { title: 'Bharatiya Nyaya Sanhita, 2023 (BNS)', description: 'Defines criminal offences and punishments in India, replacing the Indian Penal Code, 1860.' },
+      { title: 'Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS)', description: 'Governs criminal procedure including arrest, investigation, bail, and trial, replacing the CrPC, 1973.' },
+      { title: 'Bharatiya Sakshya Adhiniyam, 2023 (BSA)', description: 'Governs admissibility and evaluation of evidence in courts, replacing the Indian Evidence Act, 1872.' }
+    ]
+  },
+  {
+    subgroup: 'Updated Police & Citizen Rights (India – 2026)',
+    subgroupOrder: 4,
+    items: [
+      { title: 'FIR Registration', description: 'Police must register an FIR when information discloses a cognizable offence.' },
+      { title: 'Right to Lawyer', description: 'A person arrested or accused has the right to consult and be defended by an advocate of their choice.' },
+      { title: 'Right to be Informed of Grounds of Arrest', description: 'Police must clearly inform the arrested person of the reasons for arrest.' },
+      { title: 'Right to Inform Relative/Friend', description: 'Police must inform a relative, friend, or nominated person about the arrest and place of detention.' },
+      { title: 'Arrest Memo', description: 'Police must prepare an arrest memo containing the date, time, place of arrest, and witness details.' },
+      { title: 'Medical Examination', description: 'An arrested person has the right to medical examination under prescribed procedures.' },
+      { title: 'Free Legal Aid', description: 'Eligible persons who cannot afford legal representation are entitled to free legal aid.' },
+      { title: 'Production Before Magistrate', description: 'An arrested person must generally be produced before a Magistrate within 24 hours of arrest (excluding travel time).' },
+      { title: 'Protection Against Illegal Detention', description: 'No person may be detained beyond the legally permitted period without judicial authorization.' },
+      { title: 'Right to Bail', description: 'In bailable offences, the accused has a right to be released on bail subject to legal requirements.' },
+      { title: 'Right Against Self-Incrimination', description: 'No person can be compelled to be a witness against themselves.' },
+      { title: 'Right to Silence', description: 'An accused person has the right to remain silent and is not required to confess guilt.' },
+      { title: 'Right to Copy of FIR', description: 'Victims/complainants are entitled to receive a copy of the FIR free of cost.' },
+      { title: 'Right to Zero FIR', description: 'An FIR may be registered at any police station regardless of territorial jurisdiction and later transferred to the appropriate station.' },
+      { title: 'Rights of Women During Arrest', description: 'Special safeguards apply to the arrest, search, and examination of women under the law.' }
+    ]
+  }
+];
+
+export const WELFARE_SCHEME_GROUPS = [
+  {
+    subgroup: '🏛️ Andhra Pradesh State Government Welfare Schemes',
+    subgroupOrder: 1,
+    items: [
+      { title: 'NTR Bharosa Pension Scheme – Social security pension scheme for vulnerable citizens', category: 'Social Security', benefit: 'Monthly pension assistance', beneficiaries: 'Senior citizens, widows, disabled persons, transgender persons, and other eligible categories' },
+      { title: 'Talliki Vandanam – Financial support for education of children', category: 'Education', benefit: 'Annual financial assistance for children\'s education', beneficiaries: 'Eligible families with school-going children' },
+      { title: 'Deepam Scheme – LPG cylinder support for households', category: 'Women & Family Welfare', benefit: 'Subsidized/free LPG cylinder benefits', beneficiaries: 'Eligible women and households' },
+      { title: 'Aarogyasri Health Scheme – Cashless healthcare for major medical treatments', category: 'Healthcare', benefit: 'Free treatment at empanelled hospitals', beneficiaries: 'Eligible families covered under the scheme' },
+      { title: 'Anna Canteens – Affordable meals for the public', category: 'Food Security', benefit: 'Nutritious meals at subsidized rates', beneficiaries: 'General public' },
+      { title: 'YSR / AP Housing Programs – Assistance for construction of houses', category: 'Housing', benefit: 'Financial support for house construction', beneficiaries: 'Eligible houseless and economically weaker families' },
+      { title: 'Self Help Group (SHG) Support Programs – Women\'s economic empowerment initiatives', category: 'Women Empowerment', benefit: 'Credit linkage, subsidies, and livelihood support', beneficiaries: 'Women Self-Help Groups' },
+      { title: 'Skill Development Programs – Industry-oriented skill training', category: 'Employment & Youth', benefit: 'Skill enhancement and job opportunities', beneficiaries: 'Youth, students, and job seekers' },
+      { title: 'Farmer Welfare & Input Support Programs – Agricultural assistance initiatives', category: 'Agriculture', benefit: 'Financial and technical support for farming', beneficiaries: 'Eligible farmers' },
+      { title: 'Crop Insurance Support – Protection against agricultural losses', category: 'Agriculture', benefit: 'Compensation for crop loss due to natural calamities', beneficiaries: 'Enrolled farmers' },
+      { title: 'Scholarship & Fee Reimbursement Programs – Educational assistance schemes', category: 'Education', benefit: 'Scholarships and fee reimbursement', beneficiaries: 'Eligible students from various categories' },
+      { title: 'Nutrition Programs for Mothers & Children – Welfare services through Anganwadi centers', category: 'Child Welfare', benefit: 'Nutrition, health, and childcare services', beneficiaries: 'Pregnant women, lactating mothers, and children' },
+      { title: 'Disability Assistance Programs – Welfare support for persons with disabilities', category: 'Social Welfare', benefit: 'Financial and support services', beneficiaries: 'Eligible persons with disabilities' },
+      { title: 'Widow Welfare Assistance Programs – Support for widowed women', category: 'Social Security', benefit: 'Monthly financial assistance', beneficiaries: 'Eligible widows' },
+      { title: 'Employment Generation & Entrepreneurship Programs – Promotion of self-employment', category: 'Employment', benefit: 'Training, financial assistance, and business support', beneficiaries: 'Youth and aspiring entrepreneurs' }
+    ]
+  },
+  {
+    subgroup: '🇮🇳 Central Government Schemes Available in Andhra Pradesh',
+    subgroupOrder: 2,
+    items: [
+      { title: 'PM Kisan Samman Nidhi (PM-KISAN) – Income support scheme for farmers', category: 'Agriculture', benefit: 'Direct income support through DBT', beneficiaries: 'Eligible farmer families' },
+      { title: 'PM Awas Yojana (Urban & Rural) – Housing for all initiative', category: 'Housing', benefit: 'Financial assistance for house construction', beneficiaries: 'Eligible low-income and houseless families' },
+      { title: 'Ayushman Bharat – PM Jan Arogya Yojana (PM-JAY) – Health insurance scheme', category: 'Healthcare', benefit: 'Health coverage for hospitalization', beneficiaries: 'Eligible beneficiary families' },
+      { title: 'PM SVANidhi – Financial support for street vendors', category: 'Livelihood', benefit: 'Collateral-free working capital loans', beneficiaries: 'Eligible street vendors' },
+      { title: 'Pradhan Mantri Jan Dhan Yojana (PMJDY) – Financial inclusion scheme', category: 'Banking & Finance', benefit: 'Access to banking and financial services', beneficiaries: 'Eligible citizens without bank accounts' },
+      { title: 'Atal Pension Yojana (APY) – Pension scheme for the unorganized sector', category: 'Pension', benefit: 'Guaranteed pension after retirement', beneficiaries: 'Eligible subscribers' },
+      { title: 'PM Jeevan Jyoti Bima Yojana (PMJJBY) – Life insurance scheme', category: 'Insurance', benefit: 'Affordable life insurance coverage', beneficiaries: 'Eligible bank account holders' },
+      { title: 'PM Suraksha Bima Yojana (PMSBY) – Accident insurance scheme', category: 'Insurance', benefit: 'Accidental death and disability coverage', beneficiaries: 'Eligible bank account holders' },
+      { title: 'National Food Security Act (NFSA) – Food security program', category: 'Food Security', benefit: 'Subsidized food grains through ration shops', beneficiaries: 'Eligible ration card holders' },
+      { title: 'PM POSHAN (Mid-Day Meal Scheme) – School nutrition program', category: 'Education & Nutrition', benefit: 'Free nutritious meals in schools', beneficiaries: 'Students in eligible schools' },
+      { title: 'National Social Assistance Programme (NSAP) – Social welfare pension schemes', category: 'Social Security', benefit: 'Pension support for vulnerable groups', beneficiaries: 'Eligible elderly, widows, and disabled persons' },
+      { title: 'Digital India & Common Service Centre Programs – Digital access initiatives', category: 'Digital Services', benefit: 'Access to e-governance and digital services', beneficiaries: 'All citizens' },
+      { title: 'Stand-Up India Scheme – Entrepreneurship promotion scheme', category: 'Entrepreneurship', benefit: 'Bank loans for new enterprises', beneficiaries: 'Women and SC/ST entrepreneurs' },
+      { title: 'Mudra Yojana – Small business financing scheme', category: 'Entrepreneurship', benefit: 'Collateral-free business loans', beneficiaries: 'Small entrepreneurs and micro-business owners' },
+      { title: 'Skill India Mission – National skill development initiative', category: 'Employment & Skills', benefit: 'Vocational and industry-relevant training', beneficiaries: 'Youth and job seekers' }
+    ]
+  }
+];

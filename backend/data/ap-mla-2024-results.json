@@ -1,0 +1,1227 @@
+[
+  {
+    "constituency": "ACHANTA",
+    "constituencyDisplay": "Achanta",
+    "mlaName": "Satyanarayana Pithani",
+    "party": "TDP",
+    "majorityMargin": "26,554 votes"
+  },
+  {
+    "constituency": "ADDANKI",
+    "constituencyDisplay": "Addanki",
+    "mlaName": "Gottipati Ravi Kumar",
+    "party": "TDP",
+    "majorityMargin": "24,890 votes"
+  },
+  {
+    "constituency": "ADONI",
+    "constituencyDisplay": "Adoni",
+    "mlaName": "Dr. Partha Sarathi Valmiki",
+    "party": "BJP",
+    "majorityMargin": "18,164 votes"
+  },
+  {
+    "constituency": "ALLAGADDA",
+    "constituencyDisplay": "Allagadda",
+    "mlaName": "Akhila Priya Bhuma",
+    "party": "TDP",
+    "majorityMargin": "12,037 votes"
+  },
+  {
+    "constituency": "ALUR",
+    "constituencyDisplay": "Alur",
+    "mlaName": "B. Virupakshi",
+    "party": "YSRCP",
+    "majorityMargin": "2,831 votes"
+  },
+  {
+    "constituency": "AMADALAVALASA",
+    "constituencyDisplay": "Amadalavalasa",
+    "mlaName": "Koona Ravi Kumar",
+    "party": "TDP",
+    "majorityMargin": "35,032 votes"
+  },
+  {
+    "constituency": "AMALAPURAM",
+    "constituencyDisplay": "Amalapuram",
+    "mlaName": "Aithabathula Anandarao",
+    "party": "TDP",
+    "majorityMargin": "38,628 votes"
+  },
+  {
+    "constituency": "ANAKAPALLE",
+    "constituencyDisplay": "Anakapalle",
+    "mlaName": "Konathala Ramakrishna",
+    "party": "JSP",
+    "majorityMargin": "65,764 votes"
+  },
+  {
+    "constituency": "ANANTAPUR URBAN",
+    "constituencyDisplay": "Anantapur Urban",
+    "mlaName": "Daggupati Prasad",
+    "party": "TDP",
+    "majorityMargin": "23,023 votes"
+  },
+  {
+    "constituency": "ANAPARTHY",
+    "constituencyDisplay": "Anaparthy",
+    "mlaName": "Ramakrishna Reddy Nallamilli",
+    "party": "BJP",
+    "majorityMargin": "20,850 votes"
+  },
+  {
+    "constituency": "ARAKU VALLEY",
+    "constituencyDisplay": "Araku Valley",
+    "mlaName": "Regam Matyalingam",
+    "party": "YSRCP",
+    "majorityMargin": "31,877 votes"
+  },
+  {
+    "constituency": "ATMAKUR",
+    "constituencyDisplay": "Atmakur",
+    "mlaName": "Anam.Ramanarayana Reddy",
+    "party": "TDP",
+    "majorityMargin": "7,576 votes"
+  },
+  {
+    "constituency": "AVANIGADDA",
+    "constituencyDisplay": "Avanigadda",
+    "mlaName": "Buddhaprasad Mandali",
+    "party": "JSP",
+    "majorityMargin": "46,434 votes"
+  },
+  {
+    "constituency": "BADVEL",
+    "constituencyDisplay": "Badvel",
+    "mlaName": "Dasari Sudha",
+    "party": "YSRCP",
+    "majorityMargin": "18,567 votes"
+  },
+  {
+    "constituency": "BANAGANAPALLE",
+    "constituencyDisplay": "Banaganapalle",
+    "mlaName": "B.C. Janardhan Reddy",
+    "party": "TDP",
+    "majorityMargin": "25,566 votes"
+  },
+  {
+    "constituency": "BAPATLA",
+    "constituencyDisplay": "Bapatla",
+    "mlaName": "Vegesana Narendra Varma Raju",
+    "party": "TDP",
+    "majorityMargin": "27,768 votes"
+  },
+  {
+    "constituency": "BHIMAVARAM",
+    "constituencyDisplay": "Bhimavaram",
+    "mlaName": "Ramanjaneyulu Pulaparthi (Anjibabu)",
+    "party": "JSP",
+    "majorityMargin": "66,974 votes"
+  },
+  {
+    "constituency": "BHIMILI",
+    "constituencyDisplay": "Bhimili",
+    "mlaName": "Ganta Srinivasa Rao",
+    "party": "TDP",
+    "majorityMargin": "92,401 votes"
+  },
+  {
+    "constituency": "BOBBILI",
+    "constituencyDisplay": "Bobbili",
+    "mlaName": "R.V.S.K.K.Ranga Rao @ Babynayana",
+    "party": "TDP",
+    "majorityMargin": "44,648 votes"
+  },
+  {
+    "constituency": "CHANDRAGIRI",
+    "constituencyDisplay": "Chandragiri",
+    "mlaName": "Venkata Mani Prasad Pullivarthi",
+    "party": "TDP",
+    "majorityMargin": "43,852 votes"
+  },
+  {
+    "constituency": "CHEEPURUPALLE",
+    "constituencyDisplay": "Cheepurupalle",
+    "mlaName": "Kalavenkatarao Kimidi",
+    "party": "TDP",
+    "majorityMargin": "11,971 votes"
+  },
+  {
+    "constituency": "CHILAKALURIPET",
+    "constituencyDisplay": "Chilakaluripet",
+    "mlaName": "Prathipati Pullarao",
+    "party": "TDP",
+    "majorityMargin": "33,262 votes"
+  },
+  {
+    "constituency": "CHINTALAPUDI",
+    "constituencyDisplay": "Chintalapudi",
+    "mlaName": "Roshan Kumar Songa",
+    "party": "TDP",
+    "majorityMargin": "27,766 votes"
+  },
+  {
+    "constituency": "CHIRALA",
+    "constituencyDisplay": "Chirala",
+    "mlaName": "Madduluri Mala Kondaiah",
+    "party": "TDP",
+    "majorityMargin": "20,984 votes"
+  },
+  {
+    "constituency": "CHITTOOR",
+    "constituencyDisplay": "Chittoor",
+    "mlaName": "Gurajala Jagan Mohan (Gjm)",
+    "party": "TDP",
+    "majorityMargin": "14,604 votes"
+  },
+  {
+    "constituency": "CHODAVARAM",
+    "constituencyDisplay": "Chodavaram",
+    "mlaName": "Surya Naga Sanyasi Raju Kalidindi",
+    "party": "TDP",
+    "majorityMargin": "42,189 votes"
+  },
+  {
+    "constituency": "DARSI",
+    "constituencyDisplay": "Darsi",
+    "mlaName": "Buchepalli Siva Prasad Reddy",
+    "party": "YSRCP",
+    "majorityMargin": "2,456 votes"
+  },
+  {
+    "constituency": "DENDULURU",
+    "constituencyDisplay": "Denduluru",
+    "mlaName": "Chintamaneni Prabhakar",
+    "party": "TDP",
+    "majorityMargin": "26,266 votes"
+  },
+  {
+    "constituency": "DHARMAVARAM",
+    "constituencyDisplay": "Dharmavaram",
+    "mlaName": "Satya Kumar Yadav",
+    "party": "BJP",
+    "majorityMargin": "3,734 votes"
+  },
+  {
+    "constituency": "DHONE",
+    "constituencyDisplay": "Dhone",
+    "mlaName": "Kotla Jaya Surya Prakash Reddy",
+    "party": "TDP",
+    "majorityMargin": "6,049 votes"
+  },
+  {
+    "constituency": "ELURU",
+    "constituencyDisplay": "Eluru",
+    "mlaName": "Radha Krishnayya Badeti",
+    "party": "TDP",
+    "majorityMargin": "62,388 votes"
+  },
+  {
+    "constituency": "ETCHERLA",
+    "constituencyDisplay": "Etcherla",
+    "mlaName": "Eswara Rao Nadukuditi",
+    "party": "BJP",
+    "majorityMargin": "29,089 votes"
+  },
+  {
+    "constituency": "GAJAPATHINAGARAM",
+    "constituencyDisplay": "Gajapathinagaram",
+    "mlaName": "Kondapalli Srinivas",
+    "party": "TDP",
+    "majorityMargin": "25,301 votes"
+  },
+  {
+    "constituency": "GAJUWAKA",
+    "constituencyDisplay": "Gajuwaka",
+    "mlaName": "Palla Srinivas Rao",
+    "party": "TDP",
+    "majorityMargin": "95,235 votes"
+  },
+  {
+    "constituency": "GANGADHARA NELLORE (SC)",
+    "constituencyDisplay": "Gangadhara Nellore (SC)",
+    "mlaName": "Dr. Vm. Thomas",
+    "party": "TDP",
+    "majorityMargin": "26,011 votes"
+  },
+  {
+    "constituency": "GANNAVARAM",
+    "constituencyDisplay": "Gannavaram",
+    "mlaName": "Yarlagadda Venkata Rao",
+    "party": "TDP",
+    "majorityMargin": "37,628 votes"
+  },
+  {
+    "constituency": "GANNAVARAM(SC)",
+    "constituencyDisplay": "Gannavaram(SC)",
+    "mlaName": "Giddi. Satyanarayana",
+    "party": "JSP",
+    "majorityMargin": "33,367 votes"
+  },
+  {
+    "constituency": "GIDDALUR",
+    "constituencyDisplay": "Giddalur",
+    "mlaName": "Ashok Reddy Muthumula",
+    "party": "TDP",
+    "majorityMargin": "973 votes"
+  },
+  {
+    "constituency": "GOPALAPURAM",
+    "constituencyDisplay": "Gopalapuram",
+    "mlaName": "Maddipati Venkata Raju",
+    "party": "TDP",
+    "majorityMargin": "26,784 votes"
+  },
+  {
+    "constituency": "GUDIVADA",
+    "constituencyDisplay": "Gudivada",
+    "mlaName": "Venigandla Ramu",
+    "party": "TDP",
+    "majorityMargin": "53,040 votes"
+  },
+  {
+    "constituency": "GUDUR",
+    "constituencyDisplay": "Gudur",
+    "mlaName": "Pasim Sunil Kumar",
+    "party": "TDP",
+    "majorityMargin": "21,192 votes"
+  },
+  {
+    "constituency": "GUNTAKAL",
+    "constituencyDisplay": "Guntakal",
+    "mlaName": "Gummanur Jayaram",
+    "party": "TDP",
+    "majorityMargin": "6,826 votes"
+  },
+  {
+    "constituency": "GUNTUR EAST",
+    "constituencyDisplay": "Guntur East",
+    "mlaName": "Mohammed Naseer Ahmed",
+    "party": "TDP",
+    "majorityMargin": "31,962 votes"
+  },
+  {
+    "constituency": "GUNTUR WEST",
+    "constituencyDisplay": "Guntur West",
+    "mlaName": "Galla Madhavi",
+    "party": "TDP",
+    "majorityMargin": "51,150 votes"
+  },
+  {
+    "constituency": "GURAJALA",
+    "constituencyDisplay": "Gurajala",
+    "mlaName": "Yarapathineni Srinivasa Rao",
+    "party": "TDP",
+    "majorityMargin": "29,486 votes"
+  },
+  {
+    "constituency": "HINDUPUR",
+    "constituencyDisplay": "Hindupur",
+    "mlaName": "Nandamuri Balakrishna",
+    "party": "TDP",
+    "majorityMargin": "32,597 votes"
+  },
+  {
+    "constituency": "ICHCHAPURAM",
+    "constituencyDisplay": "Ichchapuram",
+    "mlaName": "Ashok Bendalam",
+    "party": "TDP",
+    "majorityMargin": "39,783 votes"
+  },
+  {
+    "constituency": "JAGGAMPETA",
+    "constituencyDisplay": "Jaggampeta",
+    "mlaName": "Jyothula Nehru",
+    "party": "TDP",
+    "majorityMargin": "52,676 votes"
+  },
+  {
+    "constituency": "JAGGAYYAPETA",
+    "constituencyDisplay": "Jaggayyapeta",
+    "mlaName": "Rajagopal Sreeram (Tataiah)",
+    "party": "TDP",
+    "majorityMargin": "15,977 votes"
+  },
+  {
+    "constituency": "JAMMALAMADUGU",
+    "constituencyDisplay": "Jammalamadugu",
+    "mlaName": "Adinarayana Reddy Chadipirala",
+    "party": "BJP",
+    "majorityMargin": "17,191 votes"
+  },
+  {
+    "constituency": "KADAPA",
+    "constituencyDisplay": "Kadapa",
+    "mlaName": "Madhavi Reddappa Gari",
+    "party": "TDP",
+    "majorityMargin": "18,860 votes"
+  },
+  {
+    "constituency": "KADIRI",
+    "constituencyDisplay": "Kadiri",
+    "mlaName": "Kandikunta Venkata Prasad",
+    "party": "TDP",
+    "majorityMargin": "6,265 votes"
+  },
+  {
+    "constituency": "KAIKALUR",
+    "constituencyDisplay": "Kaikalur",
+    "mlaName": "Kamineni Srinivas",
+    "party": "BJP",
+    "majorityMargin": "45,273 votes"
+  },
+  {
+    "constituency": "KAKINADA CITY",
+    "constituencyDisplay": "Kakinada City",
+    "mlaName": "Vanamadi Venkateswara Rao @ Kondababu",
+    "party": "TDP",
+    "majorityMargin": "56,572 votes"
+  },
+  {
+    "constituency": "KAKINADA RURAL",
+    "constituencyDisplay": "Kakinada Rural",
+    "mlaName": "Pantam Venkateswara Rao (Pantam Nanaji)",
+    "party": "JSP",
+    "majorityMargin": "72,040 votes"
+  },
+  {
+    "constituency": "KALYANDURG",
+    "constituencyDisplay": "Kalyandurg",
+    "mlaName": "Amilineni Surendra Babu",
+    "party": "TDP",
+    "majorityMargin": "37,734 votes"
+  },
+  {
+    "constituency": "KAMALAPURAM",
+    "constituencyDisplay": "Kamalapuram",
+    "mlaName": "Krishna Chaitanya Reddy Putha",
+    "party": "TDP",
+    "majorityMargin": "25,357 votes"
+  },
+  {
+    "constituency": "KANDUKUR",
+    "constituencyDisplay": "Kandukur",
+    "mlaName": "Inturi Nageswara Rao",
+    "party": "TDP",
+    "majorityMargin": "18,558 votes"
+  },
+  {
+    "constituency": "KANIGIRI",
+    "constituencyDisplay": "Kanigiri",
+    "mlaName": "Dr. Ugra Narasimha Reddy Mukku",
+    "party": "TDP",
+    "majorityMargin": "14,604 votes"
+  },
+  {
+    "constituency": "KAVALI",
+    "constituencyDisplay": "Kavali",
+    "mlaName": "Dagumati Venkata Krishna Reddy",
+    "party": "TDP",
+    "majorityMargin": "30,948 votes"
+  },
+  {
+    "constituency": "KODUMUR (SC)",
+    "constituencyDisplay": "Kodumur (SC)",
+    "mlaName": "Boggula Dastagiri",
+    "party": "TDP",
+    "majorityMargin": "21,583 votes"
+  },
+  {
+    "constituency": "KODUR (SC)",
+    "constituencyDisplay": "Kodur (SC)",
+    "mlaName": "Arava Sreedhar",
+    "party": "JSP",
+    "majorityMargin": "11,101 votes"
+  },
+  {
+    "constituency": "KONDAPI (SC)",
+    "constituencyDisplay": "Kondapi (SC)",
+    "mlaName": "Doctor Dola Sree Bala Veeranjaneya Swamy",
+    "party": "TDP",
+    "majorityMargin": "24,756 votes"
+  },
+  {
+    "constituency": "KOTHAPETA",
+    "constituencyDisplay": "Kothapeta",
+    "mlaName": "Bandaru Satyananda Rao",
+    "party": "TDP",
+    "majorityMargin": "56,479 votes"
+  },
+  {
+    "constituency": "KOVUR",
+    "constituencyDisplay": "Kovur",
+    "mlaName": "Prashanthi Reddy Vemireddy",
+    "party": "TDP",
+    "majorityMargin": "54,583 votes"
+  },
+  {
+    "constituency": "KOVVUR",
+    "constituencyDisplay": "Kovvur",
+    "mlaName": "Muppidi Venkateswara Rao",
+    "party": "TDP",
+    "majorityMargin": "33,946 votes"
+  },
+  {
+    "constituency": "KUPPAM",
+    "constituencyDisplay": "Kuppam",
+    "mlaName": "Chandrababu Naidu Nara",
+    "party": "TDP",
+    "majorityMargin": "48,006 votes"
+  },
+  {
+    "constituency": "KURNOOL",
+    "constituencyDisplay": "Kurnool",
+    "mlaName": "T.G.Bharath",
+    "party": "TDP",
+    "majorityMargin": "18,876 votes"
+  },
+  {
+    "constituency": "KURUPAM",
+    "constituencyDisplay": "Kurupam",
+    "mlaName": "Jagadeeswari Thoyaka",
+    "party": "TDP",
+    "majorityMargin": "23,500 votes"
+  },
+  {
+    "constituency": "MACHERLA",
+    "constituencyDisplay": "Macherla",
+    "mlaName": "Julakanti Brahmananda Reddy",
+    "party": "TDP",
+    "majorityMargin": "33,318 votes"
+  },
+  {
+    "constituency": "MACHILIPATNAM",
+    "constituencyDisplay": "Machilipatnam",
+    "mlaName": "Kollu. Ravindra",
+    "party": "TDP",
+    "majorityMargin": "50,242 votes"
+  },
+  {
+    "constituency": "MADAKASIRA (SC)",
+    "constituencyDisplay": "Madakasira (SC)",
+    "mlaName": "M.S.Raju",
+    "party": "TDP",
+    "majorityMargin": "351 votes"
+  },
+  {
+    "constituency": "MADANAPALLE",
+    "constituencyDisplay": "Madanapalle",
+    "mlaName": "M.Shajahan Basha",
+    "party": "TDP",
+    "majorityMargin": "5,509 votes"
+  },
+  {
+    "constituency": "MADUGULA",
+    "constituencyDisplay": "Madugula",
+    "mlaName": "Bandaru Satyanarayana Murthy",
+    "party": "TDP",
+    "majorityMargin": "28,026 votes"
+  },
+  {
+    "constituency": "MANDAPETA",
+    "constituencyDisplay": "Mandapeta",
+    "mlaName": "Jogeswara Rao.V",
+    "party": "TDP",
+    "majorityMargin": "44,435 votes"
+  },
+  {
+    "constituency": "MANGALAGIRI",
+    "constituencyDisplay": "Mangalagiri",
+    "mlaName": "Nara Lokesh",
+    "party": "TDP",
+    "majorityMargin": "91,413 votes"
+  },
+  {
+    "constituency": "MANTRALAYAM",
+    "constituencyDisplay": "Mantralayam",
+    "mlaName": "Y. Balanagi Reddy",
+    "party": "YSRCP",
+    "majorityMargin": "12,805 votes"
+  },
+  {
+    "constituency": "MARKAPURAM",
+    "constituencyDisplay": "Markapuram",
+    "mlaName": "Kandula Narayana Reddy",
+    "party": "TDP",
+    "majorityMargin": "13,979 votes"
+  },
+  {
+    "constituency": "MUMMIDIVARAM",
+    "constituencyDisplay": "Mummidivaram",
+    "mlaName": "Datla Subbaraju (Buchibabu)",
+    "party": "TDP",
+    "majorityMargin": "38,736 votes"
+  },
+  {
+    "constituency": "MYDUKUR",
+    "constituencyDisplay": "Mydukur",
+    "mlaName": "Sudhakar Putta",
+    "party": "TDP",
+    "majorityMargin": "20,950 votes"
+  },
+  {
+    "constituency": "MYLAVARAM",
+    "constituencyDisplay": "Mylavaram",
+    "mlaName": "Vasantha Venkata Krishna Prasad",
+    "party": "TDP",
+    "majorityMargin": "42,829 votes"
+  },
+  {
+    "constituency": "NAGARI",
+    "constituencyDisplay": "Nagari",
+    "mlaName": "Gali Bhanu Prakash",
+    "party": "TDP",
+    "majorityMargin": "45,004 votes"
+  },
+  {
+    "constituency": "NANDIGAMA (SC)",
+    "constituencyDisplay": "Nandigama (SC)",
+    "mlaName": "Tangirala Sowmya",
+    "party": "TDP",
+    "majorityMargin": "27,395 votes"
+  },
+  {
+    "constituency": "NANDIKOTKUR (SC)",
+    "constituencyDisplay": "Nandikotkur (SC)",
+    "mlaName": "G Jayasurya",
+    "party": "TDP",
+    "majorityMargin": "9,792 votes"
+  },
+  {
+    "constituency": "NANDYAL",
+    "constituencyDisplay": "Nandyal",
+    "mlaName": "Nasyam Mohammed Farook",
+    "party": "TDP",
+    "majorityMargin": "12,333 votes"
+  },
+  {
+    "constituency": "NARASANNAPETA",
+    "constituencyDisplay": "Narasannapeta",
+    "mlaName": "Baggu Ramanamurthy",
+    "party": "TDP",
+    "majorityMargin": "29,371 votes"
+  },
+  {
+    "constituency": "NARASAPURAM",
+    "constituencyDisplay": "Narasapuram",
+    "mlaName": "Bommidi Narayana Nayakar",
+    "party": "JSP",
+    "majorityMargin": "49,738 votes"
+  },
+  {
+    "constituency": "NARASARAOPET",
+    "constituencyDisplay": "Narasaraopet",
+    "mlaName": "Aravinda Babu Chadalavada",
+    "party": "TDP",
+    "majorityMargin": "19,705 votes"
+  },
+  {
+    "constituency": "NARSIPATNAM",
+    "constituencyDisplay": "Narsipatnam",
+    "mlaName": "Ayyannapatrudu Chintakayala",
+    "party": "TDP",
+    "majorityMargin": "24,676 votes"
+  },
+  {
+    "constituency": "NELLIMARLA",
+    "constituencyDisplay": "Nellimarla",
+    "mlaName": "Lokam Naga Madhavi",
+    "party": "JSP",
+    "majorityMargin": "39,829 votes"
+  },
+  {
+    "constituency": "NELLORE CITY",
+    "constituencyDisplay": "Nellore City",
+    "mlaName": "Narayana Ponguru",
+    "party": "TDP",
+    "majorityMargin": "72,489 votes"
+  },
+  {
+    "constituency": "NELLORE RURAL",
+    "constituencyDisplay": "Nellore Rural",
+    "mlaName": "Kotamreddy Sridhar Reddy",
+    "party": "TDP",
+    "majorityMargin": "34,480 votes"
+  },
+  {
+    "constituency": "NIDADAVOLE",
+    "constituencyDisplay": "Nidadavole",
+    "mlaName": "Kandula Durgesh",
+    "party": "JSP",
+    "majorityMargin": "33,304 votes"
+  },
+  {
+    "constituency": "NUZVID",
+    "constituencyDisplay": "Nuzvid",
+    "mlaName": "Kolusu Partha Sarathy",
+    "party": "TDP",
+    "majorityMargin": "12,378 votes"
+  },
+  {
+    "constituency": "ONGOLE",
+    "constituencyDisplay": "Ongole",
+    "mlaName": "Damacharla Janardhana Rao",
+    "party": "TDP",
+    "majorityMargin": "34,026 votes"
+  },
+  {
+    "constituency": "PADERU",
+    "constituencyDisplay": "Paderu",
+    "mlaName": "Matsyarasa Visweswara Raju",
+    "party": "YSRCP",
+    "majorityMargin": "19,338 votes"
+  },
+  {
+    "constituency": "PALACOLE",
+    "constituencyDisplay": "Palacole",
+    "mlaName": "Dr.Nimmala Ramanaidu",
+    "party": "TDP",
+    "majorityMargin": "67,945 votes"
+  },
+  {
+    "constituency": "PALAKONDA",
+    "constituencyDisplay": "Palakonda",
+    "mlaName": "Jayakrishna Nimmaka",
+    "party": "JSP",
+    "majorityMargin": "13,291 votes"
+  },
+  {
+    "constituency": "PALAMANER",
+    "constituencyDisplay": "Palamaner",
+    "mlaName": "Amaranatha Reddy. N",
+    "party": "TDP",
+    "majorityMargin": "20,122 votes"
+  },
+  {
+    "constituency": "PALASA",
+    "constituencyDisplay": "Palasa",
+    "mlaName": "Gouthu Sireesha",
+    "party": "TDP",
+    "majorityMargin": "40,350 votes"
+  },
+  {
+    "constituency": "PAMARRU (SC)",
+    "constituencyDisplay": "Pamarru (SC)",
+    "mlaName": "Kumar Raja Varla",
+    "party": "TDP",
+    "majorityMargin": "29,690 votes"
+  },
+  {
+    "constituency": "PANYAM",
+    "constituencyDisplay": "Panyam",
+    "mlaName": "Gowru Charitha Reddy",
+    "party": "TDP",
+    "majorityMargin": "40,591 votes"
+  },
+  {
+    "constituency": "PARCHUR",
+    "constituencyDisplay": "Parchur",
+    "mlaName": "Yeluri Sambasiva Rao",
+    "party": "TDP",
+    "majorityMargin": "24,013 votes"
+  },
+  {
+    "constituency": "PARVATHIPURAM",
+    "constituencyDisplay": "Parvathipuram",
+    "mlaName": "Bonela Vijaya Chandra",
+    "party": "TDP",
+    "majorityMargin": "24,414 votes"
+  },
+  {
+    "constituency": "PATHAPATNAM",
+    "constituencyDisplay": "Pathapatnam",
+    "mlaName": "Mamidi Govinda Rao",
+    "party": "TDP",
+    "majorityMargin": "26,527 votes"
+  },
+  {
+    "constituency": "PATTIKONDA",
+    "constituencyDisplay": "Pattikonda",
+    "mlaName": "K.E. Shyam Kumar",
+    "party": "TDP",
+    "majorityMargin": "14,211 votes"
+  },
+  {
+    "constituency": "PAYAKARAOPET",
+    "constituencyDisplay": "Payakaraopet",
+    "mlaName": "Anitha Vangalapudi",
+    "party": "TDP",
+    "majorityMargin": "43,727 votes"
+  },
+  {
+    "constituency": "PEDAKURAPADU",
+    "constituencyDisplay": "Pedakurapadu",
+    "mlaName": "Bhashyam Praveen",
+    "party": "TDP",
+    "majorityMargin": "21,089 votes"
+  },
+  {
+    "constituency": "PEDANA",
+    "constituencyDisplay": "Pedana",
+    "mlaName": "Kagitha Krishnaprasad",
+    "party": "TDP",
+    "majorityMargin": "38,123 votes"
+  },
+  {
+    "constituency": "PEDDAPURAM",
+    "constituencyDisplay": "Peddapuram",
+    "mlaName": "China Rajappa Nimmakayala",
+    "party": "TDP",
+    "majorityMargin": "40,451 votes"
+  },
+  {
+    "constituency": "PENAMALURU",
+    "constituencyDisplay": "Penamaluru",
+    "mlaName": "Bode Prasad",
+    "party": "TDP",
+    "majorityMargin": "59,915 votes"
+  },
+  {
+    "constituency": "PENDURTHI",
+    "constituencyDisplay": "Pendurthi",
+    "mlaName": "Panchakarla Ramesh Babu",
+    "party": "JSP",
+    "majorityMargin": "81,870 votes"
+  },
+  {
+    "constituency": "PENUKONDA",
+    "constituencyDisplay": "Penukonda",
+    "mlaName": "S. Savitha",
+    "party": "TDP",
+    "majorityMargin": "33,388 votes"
+  },
+  {
+    "constituency": "PILERU",
+    "constituencyDisplay": "Pileru",
+    "mlaName": "Nallari Kishan Kumar Reddy",
+    "party": "TDP",
+    "majorityMargin": "25,081 votes"
+  },
+  {
+    "constituency": "PITHAPURAM",
+    "constituencyDisplay": "Pithapuram",
+    "mlaName": "Konidala Pawan Kalyan",
+    "party": "JSP",
+    "majorityMargin": "70,279 votes"
+  },
+  {
+    "constituency": "POLAVARAM",
+    "constituencyDisplay": "Polavaram",
+    "mlaName": "Chirri Balaraju",
+    "party": "JSP",
+    "majorityMargin": "7,935 votes"
+  },
+  {
+    "constituency": "PONNUR",
+    "constituencyDisplay": "Ponnur",
+    "mlaName": "Dhulipalla Narendra Kumar",
+    "party": "TDP",
+    "majorityMargin": "32,915 votes"
+  },
+  {
+    "constituency": "PRATHIPADU",
+    "constituencyDisplay": "Prathipadu",
+    "mlaName": "Varupula Satya Prabha",
+    "party": "TDP",
+    "majorityMargin": "38,768 votes"
+  },
+  {
+    "constituency": "PRATHIPADU (SC)",
+    "constituencyDisplay": "Prathipadu (SC)",
+    "mlaName": "Burla Ramanjaneyulu",
+    "party": "TDP",
+    "majorityMargin": "42,015 votes"
+  },
+  {
+    "constituency": "PRODDATUR",
+    "constituencyDisplay": "Proddatur",
+    "mlaName": "Nandyala Varada Rajula Reddy",
+    "party": "TDP",
+    "majorityMargin": "22,744 votes"
+  },
+  {
+    "constituency": "PULIVENDLA",
+    "constituencyDisplay": "Pulivendla",
+    "mlaName": "Ys Jagan Mohan Reddy",
+    "party": "YSRCP",
+    "majorityMargin": "61,687 votes"
+  },
+  {
+    "constituency": "PUNGANUR",
+    "constituencyDisplay": "Punganur",
+    "mlaName": "Peddireddi Ramachandra Reddy",
+    "party": "YSRCP",
+    "majorityMargin": "6,095 votes"
+  },
+  {
+    "constituency": "PUTHALAPATTU (SC)",
+    "constituencyDisplay": "Puthalapattu (SC)",
+    "mlaName": "K Murali Mohan",
+    "party": "TDP",
+    "majorityMargin": "15,634 votes"
+  },
+  {
+    "constituency": "PUTTAPARTHI",
+    "constituencyDisplay": "Puttaparthi",
+    "mlaName": "Palle Sindhura Reddy",
+    "party": "TDP",
+    "majorityMargin": "8,760 votes"
+  },
+  {
+    "constituency": "RAJAM",
+    "constituencyDisplay": "Rajam",
+    "mlaName": "Kondru Murali Mohan",
+    "party": "TDP",
+    "majorityMargin": "20,722 votes"
+  },
+  {
+    "constituency": "RAJAMAHENDRAVARAM CITY",
+    "constituencyDisplay": "Rajahmundry City",
+    "mlaName": "Adireddy Srinivas",
+    "party": "TDP",
+    "majorityMargin": "71,404 votes"
+  },
+  {
+    "constituency": "RAJAMAHENDRAVARAM RURAL",
+    "constituencyDisplay": "Rajahmundry Rural",
+    "mlaName": "Gorantla Butchaiah Choudary",
+    "party": "TDP",
+    "majorityMargin": "64,090 votes"
+  },
+  {
+    "constituency": "RAJAMPET",
+    "constituencyDisplay": "Rajampet",
+    "mlaName": "Akepati Amarnath Reddy",
+    "party": "YSRCP",
+    "majorityMargin": "7,016 votes"
+  },
+  {
+    "constituency": "RAJANAGARAM",
+    "constituencyDisplay": "Rajanagaram",
+    "mlaName": "Bathula Balaramakrishna S/O Gangarao",
+    "party": "JSP",
+    "majorityMargin": "34,049 votes"
+  },
+  {
+    "constituency": "RAMACHANDRAPURAM",
+    "constituencyDisplay": "Ramachandrapuram",
+    "mlaName": "Vasamsetti. Subash",
+    "party": "TDP",
+    "majorityMargin": "26,291 votes"
+  },
+  {
+    "constituency": "RAMPACHODAVARAM",
+    "constituencyDisplay": "Rampachodavaram",
+    "mlaName": "Miriyala Sirisha Devi",
+    "party": "TDP",
+    "majorityMargin": "9,139 votes"
+  },
+  {
+    "constituency": "RAPTADU",
+    "constituencyDisplay": "Raptadu",
+    "mlaName": "Paritala Sunithamma",
+    "party": "TDP",
+    "majorityMargin": "23,329 votes"
+  },
+  {
+    "constituency": "RAYACHOTI",
+    "constituencyDisplay": "Rayachoti",
+    "mlaName": "Mandipalli Ramprasad Reddy",
+    "party": "TDP",
+    "majorityMargin": "2,495 votes"
+  },
+  {
+    "constituency": "RAYADURG",
+    "constituencyDisplay": "Rayadurg",
+    "mlaName": "Kalava Srinivasulu",
+    "party": "TDP",
+    "majorityMargin": "41,659 votes"
+  },
+  {
+    "constituency": "RAZOLE",
+    "constituencyDisplay": "Razole",
+    "mlaName": "Deva Varaprasad",
+    "party": "JSP",
+    "majorityMargin": "39,011 votes"
+  },
+  {
+    "constituency": "REPALLE",
+    "constituencyDisplay": "Repalle",
+    "mlaName": "Anagani Satya Prasad",
+    "party": "TDP",
+    "majorityMargin": "39,947 votes"
+  },
+  {
+    "constituency": "SALUR",
+    "constituencyDisplay": "Salur",
+    "mlaName": "Gummidi Sandhyarani",
+    "party": "TDP",
+    "majorityMargin": "13,733 votes"
+  },
+  {
+    "constituency": "SANTHANUTHALAPADU (SC)",
+    "constituencyDisplay": "Santhanuthalapadu (SC)",
+    "mlaName": "Vijay Kumar B.N",
+    "party": "TDP",
+    "majorityMargin": "30,385 votes"
+  },
+  {
+    "constituency": "SARVEPALLI",
+    "constituencyDisplay": "Sarvepalli",
+    "mlaName": "Chandra Mohan Reddy Somireddy",
+    "party": "TDP",
+    "majorityMargin": "16,288 votes"
+  },
+  {
+    "constituency": "SATTENAPALLE",
+    "constituencyDisplay": "Sattenapalle",
+    "mlaName": "Kanna Lakshminarayana",
+    "party": "TDP",
+    "majorityMargin": "27,836 votes"
+  },
+  {
+    "constituency": "SATYAVEDU",
+    "constituencyDisplay": "Satyavedu",
+    "mlaName": "Koneti Adimulam",
+    "party": "TDP",
+    "majorityMargin": "3,739 votes"
+  },
+  {
+    "constituency": "SINGANAMALA (SC)",
+    "constituencyDisplay": "Singanamala (SC)",
+    "mlaName": "Bandaru Sravani Sree",
+    "party": "TDP",
+    "majorityMargin": "8,788 votes"
+  },
+  {
+    "constituency": "SRIKAKULAM",
+    "constituencyDisplay": "Srikakulam",
+    "mlaName": "Gondu Shankar",
+    "party": "TDP",
+    "majorityMargin": "52,521 votes"
+  },
+  {
+    "constituency": "SRIKALAHASTI",
+    "constituencyDisplay": "Srikalahasti",
+    "mlaName": "Bojjala Venkata Sudhir Reddy",
+    "party": "TDP",
+    "majorityMargin": "43,304 votes"
+  },
+  {
+    "constituency": "SRISAILAM",
+    "constituencyDisplay": "Srisailam",
+    "mlaName": "Budda Rajasekhara Reddy",
+    "party": "TDP",
+    "majorityMargin": "6,385 votes"
+  },
+  {
+    "constituency": "SRUNGAVARAPUKOTA",
+    "constituencyDisplay": "Srungavarapukota",
+    "mlaName": "Kolla Lalitha Kumari",
+    "party": "TDP",
+    "majorityMargin": "38,790 votes"
+  },
+  {
+    "constituency": "SULLURPETA",
+    "constituencyDisplay": "Sullurpeta",
+    "mlaName": "Nelavala Vijayasree",
+    "party": "TDP",
+    "majorityMargin": "29,115 votes"
+  },
+  {
+    "constituency": "TADEPALLIGUDEM",
+    "constituencyDisplay": "Tadepalligudem",
+    "mlaName": "Bolisetty Srinivas",
+    "party": "JSP",
+    "majorityMargin": "62,492 votes"
+  },
+  {
+    "constituency": "TADIKONDA (SC)",
+    "constituencyDisplay": "Tadikonda (SC)",
+    "mlaName": "Tenali Sravan Kumar",
+    "party": "TDP",
+    "majorityMargin": "39,606 votes"
+  },
+  {
+    "constituency": "TADPATRI",
+    "constituencyDisplay": "Tadpatri",
+    "mlaName": "Ashmit Reddy J.C",
+    "party": "TDP",
+    "majorityMargin": "27,731 votes"
+  },
+  {
+    "constituency": "TANUKU",
+    "constituencyDisplay": "Tanuku",
+    "mlaName": "Arimilli Radha Krishna",
+    "party": "TDP",
+    "majorityMargin": "72,121 votes"
+  },
+  {
+    "constituency": "TEKKALI",
+    "constituencyDisplay": "Tekkali",
+    "mlaName": "Atchannaidu Kinjarapu",
+    "party": "TDP",
+    "majorityMargin": "34,435 votes"
+  },
+  {
+    "constituency": "TENALI",
+    "constituencyDisplay": "Tenali",
+    "mlaName": "Nadendla Manohar",
+    "party": "JSP",
+    "majorityMargin": "48,112 votes"
+  },
+  {
+    "constituency": "THAMBALLAPALLE",
+    "constituencyDisplay": "Thamballapalle",
+    "mlaName": "P. Dwarakanatha Reddy",
+    "party": "YSRCP",
+    "majorityMargin": "10,103 votes"
+  },
+  {
+    "constituency": "TIRUPATI",
+    "constituencyDisplay": "Tirupati",
+    "mlaName": "Aranii Srenevasulu",
+    "party": "JSP",
+    "majorityMargin": "61,956 votes"
+  },
+  {
+    "constituency": "TIRUVURU (SC)",
+    "constituencyDisplay": "Tiruvuru (SC)",
+    "mlaName": "Kolikapudi Srinivasa Rao",
+    "party": "TDP",
+    "majorityMargin": "21,874 votes"
+  },
+  {
+    "constituency": "TUNI",
+    "constituencyDisplay": "Tuni",
+    "mlaName": "Divya Yanamala",
+    "party": "TDP",
+    "majorityMargin": "15,177 votes"
+  },
+  {
+    "constituency": "UDAYAGIRI",
+    "constituencyDisplay": "Udayagiri",
+    "mlaName": "Kakarla Suresh",
+    "party": "TDP",
+    "majorityMargin": "9,621 votes"
+  },
+  {
+    "constituency": "UNDI",
+    "constituencyDisplay": "Undi",
+    "mlaName": "Kanumuru Raghu Rama Krishna Raju (R R R)",
+    "party": "TDP",
+    "majorityMargin": "56,777 votes"
+  },
+  {
+    "constituency": "UNGUTUR",
+    "constituencyDisplay": "Ungutur",
+    "mlaName": "Dharmaraju Patsamatla",
+    "party": "JSP",
+    "majorityMargin": "44,945 votes"
+  },
+  {
+    "constituency": "URAVAKONDA",
+    "constituencyDisplay": "Uravakonda",
+    "mlaName": "Payyavula Keshav",
+    "party": "TDP",
+    "majorityMargin": "21,704 votes"
+  },
+  {
+    "constituency": "VEMURU (SC)",
+    "constituencyDisplay": "Vemuru (SC)",
+    "mlaName": "Ananda Babu Nakka",
+    "party": "TDP",
+    "majorityMargin": "22,021 votes"
+  },
+  {
+    "constituency": "VENKATAGIRI",
+    "constituencyDisplay": "Venkatagiri",
+    "mlaName": "Kurugondla Ramakrishna",
+    "party": "TDP",
+    "majorityMargin": "16,294 votes"
+  },
+  {
+    "constituency": "VIJAYAWADA CENTRAL",
+    "constituencyDisplay": "Vijayawada Central",
+    "mlaName": "Bonda Umamaheswararao",
+    "party": "TDP",
+    "majorityMargin": "68,886 votes"
+  },
+  {
+    "constituency": "VIJAYAWADA EAST",
+    "constituencyDisplay": "Vijayawada East",
+    "mlaName": "Gadde Rama Mohan",
+    "party": "TDP",
+    "majorityMargin": "49,640 votes"
+  },
+  {
+    "constituency": "VIJAYAWADA WEST",
+    "constituencyDisplay": "Vijayawada West",
+    "mlaName": "Yalamanchili Satyanarayana Chowdary (Sujana Chowdary)",
+    "party": "BJP",
+    "majorityMargin": "47,032 votes"
+  },
+  {
+    "constituency": "VINUKONDA",
+    "constituencyDisplay": "Vinukonda",
+    "mlaName": "Gonuguntla Venkata Siva Sita Rama Anzanneyllu",
+    "party": "TDP",
+    "majorityMargin": "30,267 votes"
+  },
+  {
+    "constituency": "VISAKHAPATNAM EAST",
+    "constituencyDisplay": "Visakhapatnam East",
+    "mlaName": "Ramakrishna Babu Velagapudi",
+    "party": "TDP",
+    "majorityMargin": "70,877 votes"
+  },
+  {
+    "constituency": "VISAKHAPATNAM NORTH",
+    "constituencyDisplay": "Visakhapatnam North",
+    "mlaName": "Vishnu Kumar Raju Penmetsa",
+    "party": "BJP",
+    "majorityMargin": "47,534 votes"
+  },
+  {
+    "constituency": "VISAKHAPATNAM SOUTH",
+    "constituencyDisplay": "Visakhapatnam South",
+    "mlaName": "Ch.Vamsi Krishna Srinivas",
+    "party": "JSP",
+    "majorityMargin": "64,594 votes"
+  },
+  {
+    "constituency": "VISAKHAPATNAM WEST",
+    "constituencyDisplay": "Visakhapatnam West",
+    "mlaName": "P.G.V.R.Naidu(Ganababu)",
+    "party": "TDP",
+    "majorityMargin": "35,184 votes"
+  },
+  {
+    "constituency": "VIZIANAGARAM",
+    "constituencyDisplay": "Vizianagaram",
+    "mlaName": "Aditi Vijayalakshmi Gajapathi Raju Pusapati",
+    "party": "TDP",
+    "majorityMargin": "60,609 votes"
+  },
+  {
+    "constituency": "YELAMANCHILI",
+    "constituencyDisplay": "Yelamanchili",
+    "mlaName": "Sundarapu Vijay Kumar",
+    "party": "JSP",
+    "majorityMargin": "48,956 votes"
+  },
+  {
+    "constituency": "YEMMIGANUR",
+    "constituencyDisplay": "Yemmiganur",
+    "mlaName": "B. Jayanageswara Reddy",
+    "party": "TDP",
+    "majorityMargin": "15,837 votes"
+  },
+  {
+    "constituency": "YERRAGONDAPALEM (SC)",
+    "constituencyDisplay": "Yerragondapalem (SC)",
+    "mlaName": "Chandra Sekhar Tatiparthi",
+    "party": "YSRCP",
+    "majorityMargin": "5,200 votes"
+  }
+]

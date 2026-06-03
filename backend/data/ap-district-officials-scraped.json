@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Srikakulam",
+    "collectorName": "Sri Farman Ahmad Khan, I.A.S.",
+    "spName": "Sri K. V. Maheswra Reddy, I.P.S.",
+    "collectorEmail": "jcsklm2012@gmail.com",
+    "collectorPhone": "08942-222670",
+    "spEmail": "sp@skl.appolice.gov.in",
+    "spPhone": "08942-222566"
+  },
+  {
+    "name": "Vizianagaram",
+    "collectorName": "Sri Sedhu Madhavan S, I.A.S.",
+    "spName": "Sri A R Damodhar, IPS",
+    "collectorEmail": "jc_vznm@ap.gov.in",
+    "collectorPhone": "08922-276658",
+    "spEmail": "spvzm@appolice.gov.in",
+    "spPhone": "08922-276163"
+  },
+  {
+    "name": "Parvathipuram Manyam",
+    "collectorName": "Sri C. Yaswanthkumar Reddy I.A.S",
+    "spName": "Sri S.V.Madhav Reddy IPS",
+    "collectorEmail": "",
+    "collectorPhone": "",
+    "spEmail": "",
+    "spPhone": ""
+  },
+  {
+    "name": "Visakhapatnam",
+    "error": "fetch failed"
+  },
+  {
+    "name": "Anakapalli",
+    "collectorName": "",
+    "spName": "",
+    "collectorEmail": "collector-ankp@ap.gov.in",
+    "collectorPhone": "",
+    "spEmail": "jc-anakapalli@ap.gov.in",
+    "spPhone": ""
+  },
+  {
+    "name": "Alluri Sitharama Raju",
+    "collectorName": "",
+    "spName": "",
+    "collectorEmail": "ee_rws_pdr@ap.gov.in",
+    "collectorPhone": "",
+    "spEmail": "ee_rws_pdr@ap.gov.in",
+    "spPhone": ""
+  },
+  {
+    "name": "Kakinada",
+    "collectorName": "Sri Apoorva Bharat, IAS",
+    "spName": "Sri. G. Bindu Madhav, IPS",
+    "collectorEmail": "jc-kakinada@ap.gov.in",
+    "collectorPhone": "0884-2361700",
+    "spEmail": "sp@kkd.appolice.gov.in",
+    "spPhone": "9440796500"
+  },
+  {
+    "name": "Dr. B. R. Ambedkar Konaseema",
+    "collectorName": "WAIKHOM NYDIA DEVI, I.A.S.,",
+    "spName": "",
+    "collectorEmail": "jc-konaseema@ap.gov.in",
+    "collectorPhone": "08856293196",
+    "spEmail": "jc-konaseema@ap.gov.in",
+    "spPhone": ""
+  },
+  {
+    "name": "East Godavari",
+    "collectorName": "KIRTI CHEKURI (I.A.S. 2016)",
+    "spName": "Dusi Narasimha Kishore IPS",
+    "collectorEmail": "collector_egd@ap.gov.in",
+    "collectorPhone": "0883-2940508",
+    "spEmail": "sp@rjyu.appolice.gov.in",
+    "spPhone": "0883-2427187"
+  },
+  {
+    "name": "West Godavari",
+    "collectorName": "Smt. C NAGARANI IAS",
+    "spName": "Sri Adnan Nayeem Asmi I.P.S",
+    "collectorEmail": "",
+    "collectorPhone": "",
+    "spEmail": "",
+    "spPhone": ""
+  },
+  {
+    "name": "Eluru",
+    "collectorName": "Smt K. Vetri Selvi, I.A.S",
+    "spName": "Sri. K Prathap Siva Kishore I.P.S",
+    "collectorEmail": "collector-eluru@ap.gov.in",
+    "collectorPhone": "",
+    "spEmail": "spelurudistrict@gmail.com",
+    "spPhone": ""
+  },
+  {
+    "name": "NTR",
+    "collectorName": "Dr. G.Lakshmisha, I.A.S",
+    "spName": "",
+    "collectorEmail": "collector-ntr@ap.gov.in",
+    "collectorPhone": "0866-2478090",
+    "spEmail": "",
+    "spPhone": ""
+  },
+  {
+    "name": "Guntur",
+    "collectorName": "Sub Collector, I.A.S.",
+    "spName": "Sri Vakul Jindal, I.P.S.",
+    "collectorEmail": "rdotnl@gmail.com",
+    "collectorPhone": "",
+    "spEmail": "jc_gntr@ap.gov.in",
+    "spPhone": ""
+  },
+  {
+    "name": "Palnadu",
+    "collectorName": "V. Sanjana Simha, I.A.S",
+    "spName": "Sri B. Krishna Rao, IPS",
+    "collectorEmail": "jc-palnadu@ap.gov.in",
+    "collectorPhone": "",
+    "spEmail": "jc-palnadu@ap.gov.in",
+    "spPhone": ""
+  },
+  {
+    "name": "Bapatla",
+    "collectorName": "Sri Dr. V Vinod Kumar, IAS",
+    "spName": "B. Umamaheswar, IPS",
+    "collectorEmail": "collector-bapatla@ap.gov.in",
+    "collectorPhone": "8643228101",
+    "spEmail": "spbapatla@gmail.com",
+    "spPhone": "9121102200"
+  },
+  {
+    "name": "Prakasam",
+    "collectorName": "",
+    "spName": "",
+    "collectorEmail": "",
+    "collectorPhone": "",
+    "spEmail": "",
+    "spPhone": ""
+  },
+  {
+    "name": "Sri Potti Sriramulu Nellore",
+    "collectorName": "Sri Himanshu Shukla IAS",
+    "spName": "Dr. Ajitha Vejendla, I.P.S.,",
+    "collectorEmail": "collector_nlr@ap.gov.in",
+    "collectorPhone": "0861-2331999",
+    "spEmail": "sp@nlr.appolice.gov.in",
+    "spPhone": "0861-2331933"
+  },
+  {
+    "name": "Sri Balaji (Tirupati)",
+    "collectorName": "Shri Dr.S.Venkateswar, IAS.,",
+    "spName": "Sri L. SUBBARAYUDU, I.P.S.,",
+    "collectorEmail": "collector-tirupati@ap.gov.in",
+    "collectorPhone": "",
+    "spEmail": "sptirupatiap@gmail.com",
+    "spPhone": ""
+  },
+  {
+    "name": "Chittoor",
+    "collectorName": "Sri Adharsh Rajeendran., I.A.S.,",
+    "spName": "Sri Tushar Dudi, IPS",
+    "collectorEmail": "jcchittoor@gmail.com",
+    "collectorPhone": "",
+    "spEmail": "spchittoor@gmail.com",
+    "spPhone": ""
+  },
+  {
+    "name": "Annamayya",
+    "collectorName": "Sri Nishant Kumar, IAS",
+    "spName": "Sri Dheeraj Kunuguli, IPS",
+    "collectorEmail": "collector-annamayya@ap.gov.in",
+    "collectorPhone": "",
+    "spEmail": "sp.annamayyadistrict@gmail.com",
+    "spPhone": "8712626221"
+  },
+  {
+    "name": "YSR Kadapa",
+    "collectorName": "Smt Nidhi Meena I.A.S.,",
+    "spName": "Sri Shelke Nachiket Vishwanath, IPS",
+    "collectorEmail": "jc_kdp@ap.gov.in",
+    "collectorPhone": "09849904119",
+    "spEmail": "contact@kadapapolice.com",
+    "spPhone": "08562-242198"
+  },
+  {
+    "name": "Anantapur",
+    "error": "fetch failed"
+  },
+  {
+    "name": "Sri Sathya Sai",
+    "error": "fetch failed"
+  },
+  {
+    "name": "Kurnool",
+    "collectorName": "Sri Noorul Quamer, I.A.S.,",
+    "spName": "Sri.Vikrant Patel I.P.S",
+    "collectorEmail": "jc_krnl@ap.gov.in",
+    "collectorPhone": "08518220328",
+    "spEmail": "jc_krnl@ap.gov.in",
+    "spPhone": ""
+  },
+  {
+    "name": "Nandyal",
+    "collectorName": "Sri Suraj Dhananjay Ganore, I.A.S.,",
+    "spName": "Sri Suneel Sheoran,I.P.S.,",
+    "collectorEmail": "jc-nandyal@ap.gov.in",
+    "collectorPhone": "",
+    "spEmail": "spnandyal.official@gmail.com",
+    "spPhone": ""
+  }
+]

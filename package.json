@@ -1,0 +1,19 @@
+{
+  "name": "ap-school-v1",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "install:all": "cd backend && npm install && cd ../frontend && npm install",
+    "seed": "cd backend && npm run seed",
+    "seed:home": "cd backend && npm run seed:home",
+    "seed:civic": "cd backend && npm run seed:civic",
+    "seed:refresh": "cd backend && npm run seed:refresh",
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "preview": "concurrently \"npm run dev:backend\" \"cd frontend && npm run preview\"",
+    "start": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

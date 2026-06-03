@@ -1,0 +1,877 @@
+[
+  {
+    "name": "Satyanarayana Pithani",
+    "constituency": "ACHANTA",
+    "party": "TDP"
+  },
+  {
+    "name": "Gottipati Ravi Kumar",
+    "constituency": "ADDANKI",
+    "party": "TDP"
+  },
+  {
+    "name": "Dr. Partha Sarathi Valmiki",
+    "constituency": "ADONI",
+    "party": "BJP"
+  },
+  {
+    "name": "Akhila Priya Bhuma",
+    "constituency": "ALLAGADDA",
+    "party": "TDP"
+  },
+  {
+    "name": "B. Virupakshi",
+    "constituency": "ALUR",
+    "party": "YSRCP"
+  },
+  {
+    "name": "Koona Ravi Kumar",
+    "constituency": "AMADALAVALASA",
+    "party": "TDP"
+  },
+  {
+    "name": "Aithabathula Anandarao",
+    "constituency": "AMALAPURAM",
+    "party": "TDP"
+  },
+  {
+    "name": "Konathala Ramakrishna",
+    "constituency": "ANAKAPALLE",
+    "party": "JSP"
+  },
+  {
+    "name": "Daggupati Prasad",
+    "constituency": "ANANTAPUR URBAN",
+    "party": "TDP"
+  },
+  {
+    "name": "Ramakrishna Reddy Nallamilli",
+    "constituency": "ANAPARTHY",
+    "party": "BJP"
+  },
+  {
+    "name": "Regam Matyalingam",
+    "constituency": "ARAKU VALLEY",
+    "party": "YSRCP"
+  },
+  {
+    "name": "Anam.Ramanarayana Reddy",
+    "constituency": "ATMAKUR",
+    "party": "TDP"
+  },
+  {
+    "name": "Buddhaprasad Mandali",
+    "constituency": "AVANIGADDA",
+    "party": "JSP"
+  },
+  {
+    "name": "Dasari Sudha",
+    "constituency": "BADVEL",
+    "party": "YSRCP"
+  },
+  {
+    "name": "B.C. Janardhan Reddy",
+    "constituency": "BANAGANAPALLE",
+    "party": "TDP"
+  },
+  {
+    "name": "Vegesana Narendra Varma Raju",
+    "constituency": "BAPATLA",
+    "party": "TDP"
+  },
+  {
+    "name": "Ramanjaneyulu Pulaparthi (Anjibabu)",
+    "constituency": "BHIMAVARAM",
+    "party": "JSP"
+  },
+  {
+    "name": "Ganta Srinivasa Rao",
+    "constituency": "BHIMILI",
+    "party": "TDP"
+  },
+  {
+    "name": "R.V.S.K.K.Ranga Rao @ Babynayana",
+    "constituency": "BOBBILI",
+    "party": "TDP"
+  },
+  {
+    "name": "Venkata Mani Prasad Pullivarthi",
+    "constituency": "CHANDRAGIRI",
+    "party": "TDP"
+  },
+  {
+    "name": "Kalavenkatarao Kimidi",
+    "constituency": "CHEEPURUPALLE",
+    "party": "TDP"
+  },
+  {
+    "name": "Prathipati Pullarao",
+    "constituency": "CHILAKALURIPET",
+    "party": "TDP"
+  },
+  {
+    "name": "Roshan Kumar Songa",
+    "constituency": "CHINTALAPUDI",
+    "party": "TDP"
+  },
+  {
+    "name": "Madduluri Mala Kondaiah",
+    "constituency": "CHIRALA",
+    "party": "TDP"
+  },
+  {
+    "name": "Gurajala Jagan Mohan (Gjm)",
+    "constituency": "CHITTOOR",
+    "party": "TDP"
+  },
+  {
+    "name": "Surya Naga Sanyasi Raju Kalidindi",
+    "constituency": "CHODAVARAM",
+    "party": "TDP"
+  },
+  {
+    "name": "Buchepalli Siva Prasad Reddy",
+    "constituency": "DARSI",
+    "party": "YSRCP"
+  },
+  {
+    "name": "Chintamaneni Prabhakar",
+    "constituency": "DENDULURU",
+    "party": "TDP"
+  },
+  {
+    "name": "Satya Kumar Yadav",
+    "constituency": "DHARMAVARAM",
+    "party": "BJP"
+  },
+  {
+    "name": "Kotla Jaya Surya Prakash Reddy",
+    "constituency": "DHONE",
+    "party": "TDP"
+  },
+  {
+    "name": "Radha Krishnayya Badeti",
+    "constituency": "ELURU",
+    "party": "TDP"
+  },
+  {
+    "name": "Eswara Rao Nadukuditi",
+    "constituency": "ETCHERLA",
+    "party": "BJP"
+  },
+  {
+    "name": "Kondapalli Srinivas",
+    "constituency": "GAJAPATHINAGARAM",
+    "party": "TDP"
+  },
+  {
+    "name": "Palla Srinivas Rao",
+    "constituency": "GAJUWAKA",
+    "party": "TDP"
+  },
+  {
+    "name": "Dr. Vm. Thomas",
+    "constituency": "GANGADHARA NELLORE (SC)",
+    "party": "TDP"
+  },
+  {
+    "name": "Yarlagadda Venkata Rao",
+    "constituency": "GANNAVARAM",
+    "party": "TDP"
+  },
+  {
+    "name": "Giddi. Satyanarayana",
+    "constituency": "GANNAVARAM(SC)",
+    "party": "JSP"
+  },
+  {
+    "name": "Ashok Reddy Muthumula",
+    "constituency": "GIDDALUR",
+    "party": "TDP"
+  },
+  {
+    "name": "Maddipati Venkata Raju",
+    "constituency": "GOPALAPURAM",
+    "party": "TDP"
+  },
+  {
+    "name": "Venigandla Ramu",
+    "constituency": "GUDIVADA",
+    "party": "TDP"
+  },
+  {
+    "name": "Pasim Sunil Kumar",
+    "constituency": "GUDUR",
+    "party": "TDP"
+  },
+  {
+    "name": "Gummanur Jayaram",
+    "constituency": "GUNTAKAL",
+    "party": "TDP"
+  },
+  {
+    "name": "Mohammed Naseer Ahmed",
+    "constituency": "GUNTUR EAST",
+    "party": "TDP"
+  },
+  {
+    "name": "Galla Madhavi",
+    "constituency": "GUNTUR WEST",
+    "party": "TDP"
+  },
+  {
+    "name": "Yarapathineni Srinivasa Rao",
+    "constituency": "GURAJALA",
+    "party": "TDP"
+  },
+  {
+    "name": "Nandamuri Balakrishna",
+    "constituency": "HINDUPUR",
+    "party": "TDP"
+  },
+  {
+    "name": "Ashok Bendalam",
+    "constituency": "ICHCHAPURAM",
+    "party": "TDP"
+  },
+  {
+    "name": "Jyothula Nehru",
+    "constituency": "JAGGAMPETA",
+    "party": "TDP"
+  },
+  {
+    "name": "Rajagopal Sreeram (Tataiah)",
+    "constituency": "JAGGAYYAPETA",
+    "party": "TDP"
+  },
+  {
+    "name": "Adinarayana Reddy Chadipirala",
+    "constituency": "JAMMALAMADUGU",
+    "party": "BJP"
+  },
+  {
+    "name": "Madhavi Reddappa Gari",
+    "constituency": "KADAPA",
+    "party": "TDP"
+  },
+  {
+    "name": "Kandikunta Venkata Prasad",
+    "constituency": "KADIRI",
+    "party": "TDP"
+  },
+  {
+    "name": "Kamineni Srinivas",
+    "constituency": "KAIKALUR",
+    "party": "BJP"
+  },
+  {
+    "name": "Vanamadi Venkateswara Rao @ Kondababu",
+    "constituency": "KAKINADA CITY",
+    "party": "TDP"
+  },
+  {
+    "name": "Pantam Venkateswara Rao (Pantam Nanaji)",
+    "constituency": "KAKINADA RURAL",
+    "party": "JSP"
+  },
+  {
+    "name": "Amilineni Surendra Babu",
+    "constituency": "KALYANDURG",
+    "party": "TDP"
+  },
+  {
+    "name": "Krishna Chaitanya Reddy Putha",
+    "constituency": "KAMALAPURAM",
+    "party": "TDP"
+  },
+  {
+    "name": "Inturi Nageswara Rao",
+    "constituency": "KANDUKUR",
+    "party": "TDP"
+  },
+  {
+    "name": "Dr. Ugra Narasimha Reddy Mukku",
+    "constituency": "KANIGIRI",
+    "party": "TDP"
+  },
+  {
+    "name": "Dagumati Venkata Krishna Reddy",
+    "constituency": "KAVALI",
+    "party": "TDP"
+  },
+  {
+    "name": "Boggula Dastagiri",
+    "constituency": "KODUMUR (SC)",
+    "party": "TDP"
+  },
+  {
+    "name": "Arava Sreedhar",
+    "constituency": "KODUR (SC)",
+    "party": "JSP"
+  },
+  {
+    "name": "Doctor Dola Sree Bala Veeranjaneya Swamy",
+    "constituency": "KONDAPI (SC)",
+    "party": "TDP"
+  },
+  {
+    "name": "Bandaru Satyananda Rao",
+    "constituency": "KOTHAPETA",
+    "party": "TDP"
+  },
+  {
+    "name": "Prashanthi Reddy Vemireddy",
+    "constituency": "KOVUR",
+    "party": "TDP"
+  },
+  {
+    "name": "Muppidi Venkateswara Rao",
+    "constituency": "KOVVUR",
+    "party": "TDP"
+  },
+  {
+    "name": "Chandrababu Naidu Nara",
+    "constituency": "KUPPAM",
+    "party": "TDP"
+  },
+  {
+    "name": "T.G.Bharath",
+    "constituency": "KURNOOL",
+    "party": "TDP"
+  },
+  {
+    "name": "Jagadeeswari Thoyaka",
+    "constituency": "KURUPAM",
+    "party": "TDP"
+  },
+  {
+    "name": "Julakanti Brahmananda Reddy",
+    "constituency": "MACHERLA",
+    "party": "TDP"
+  },
+  {
+    "name": "Kollu. Ravindra",
+    "constituency": "MACHILIPATNAM",
+    "party": "TDP"
+  },
+  {
+    "name": "M.S.Raju",
+    "constituency": "MADAKASIRA (SC)",
+    "party": "TDP"
+  },
+  {
+    "name": "M.Shajahan Basha",
+    "constituency": "MADANAPALLE",
+    "party": "TDP"
+  },
+  {
+    "name": "Bandaru Satyanarayana Murthy",
+    "constituency": "MADUGULA",
+    "party": "TDP"
+  },
+  {
+    "name": "Jogeswara Rao.V",
+    "constituency": "MANDAPETA",
+    "party": "TDP"
+  },
+  {
+    "name": "Nara Lokesh",
+    "constituency": "MANGALAGIRI",
+    "party": "TDP"
+  },
+  {
+    "name": "Y. Balanagi Reddy",
+    "constituency": "MANTRALAYAM",
+    "party": "YSRCP"
+  },
+  {
+    "name": "Kandula Narayana Reddy",
+    "constituency": "MARKAPURAM",
+    "party": "TDP"
+  },
+  {
+    "name": "Datla Subbaraju (Buchibabu)",
+    "constituency": "MUMMIDIVARAM",
+    "party": "TDP"
+  },
+  {
+    "name": "Sudhakar Putta",
+    "constituency": "MYDUKUR",
+    "party": "TDP"
+  },
+  {
+    "name": "Vasantha Venkata Krishna Prasad",
+    "constituency": "MYLAVARAM",
+    "party": "TDP"
+  },
+  {
+    "name": "Gali Bhanu Prakash",
+    "constituency": "NAGARI",
+    "party": "TDP"
+  },
+  {
+    "name": "Tangirala Sowmya",
+    "constituency": "NANDIGAMA (SC)",
+    "party": "TDP"
+  },
+  {
+    "name": "G Jayasurya",
+    "constituency": "NANDIKOTKUR (SC)",
+    "party": "TDP"
+  },
+  {
+    "name": "Nasyam Mohammed Farook",
+    "constituency": "NANDYAL",
+    "party": "TDP"
+  },
+  {
+    "name": "Baggu Ramanamurthy",
+    "constituency": "NARASANNAPETA",
+    "party": "TDP"
+  },
+  {
+    "name": "Bommidi Narayana Nayakar",
+    "constituency": "NARASAPURAM",
+    "party": "JSP"
+  },
+  {
+    "name": "Aravinda Babu Chadalavada",
+    "constituency": "NARASARAOPET",
+    "party": "TDP"
+  },
+  {
+    "name": "Ayyannapatrudu Chintakayala",
+    "constituency": "NARSIPATNAM",
+    "party": "TDP"
+  },
+  {
+    "name": "Lokam Naga Madhavi",
+    "constituency": "NELLIMARLA",
+    "party": "JSP"
+  },
+  {
+    "name": "Narayana Ponguru",
+    "constituency": "NELLORE CITY",
+    "party": "TDP"
+  },
+  {
+    "name": "Kotamreddy Sridhar Reddy",
+    "constituency": "NELLORE RURAL",
+    "party": "TDP"
+  },
+  {
+    "name": "Kandula Durgesh",
+    "constituency": "NIDADAVOLE",
+    "party": "JSP"
+  },
+  {
+    "name": "Kolusu Partha Sarathy",
+    "constituency": "NUZVID",
+    "party": "TDP"
+  },
+  {
+    "name": "Damacharla Janardhana Rao",
+    "constituency": "ONGOLE",
+    "party": "TDP"
+  },
+  {
+    "name": "Matsyarasa Visweswara Raju",
+    "constituency": "PADERU",
+    "party": "YSRCP"
+  },
+  {
+    "name": "Dr.Nimmala Ramanaidu",
+    "constituency": "PALACOLE",
+    "party": "TDP"
+  },
+  {
+    "name": "Jayakrishna Nimmaka",
+    "constituency": "PALAKONDA",
+    "party": "JSP"
+  },
+  {
+    "name": "Amaranatha Reddy. N",
+    "constituency": "PALAMANER",
+    "party": "TDP"
+  },
+  {
+    "name": "Gouthu Sireesha",
+    "constituency": "PALASA",
+    "party": "TDP"
+  },
+  {
+    "name": "Kumar Raja Varla",
+    "constituency": "PAMARRU (SC)",
+    "party": "TDP"
+  },
+  {
+    "name": "Gowru Charitha Reddy",
+    "constituency": "PANYAM",
+    "party": "TDP"
+  },
+  {
+    "name": "Yeluri Sambasiva Rao",
+    "constituency": "PARCHUR",
+    "party": "TDP"
+  },
+  {
+    "name": "Bonela Vijaya Chandra",
+    "constituency": "PARVATHIPURAM",
+    "party": "TDP"
+  },
+  {
+    "name": "Mamidi Govinda Rao",
+    "constituency": "PATHAPATNAM",
+    "party": "TDP"
+  },
+  {
+    "name": "K.E. Shyam Kumar",
+    "constituency": "PATTIKONDA",
+    "party": "TDP"
+  },
+  {
+    "name": "Anitha Vangalapudi",
+    "constituency": "PAYAKARAOPET",
+    "party": "TDP"
+  },
+  {
+    "name": "Bhashyam Praveen",
+    "constituency": "PEDAKURAPADU",
+    "party": "TDP"
+  },
+  {
+    "name": "Kagitha Krishnaprasad",
+    "constituency": "PEDANA",
+    "party": "TDP"
+  },
+  {
+    "name": "China Rajappa Nimmakayala",
+    "constituency": "PEDDAPURAM",
+    "party": "TDP"
+  },
+  {
+    "name": "Bode Prasad",
+    "constituency": "PENAMALURU",
+    "party": "TDP"
+  },
+  {
+    "name": "Panchakarla Ramesh Babu",
+    "constituency": "PENDURTHI",
+    "party": "JSP"
+  },
+  {
+    "name": "S. Savitha",
+    "constituency": "PENUKONDA",
+    "party": "TDP"
+  },
+  {
+    "name": "Nallari Kishan Kumar Reddy",
+    "constituency": "PILERU",
+    "party": "TDP"
+  },
+  {
+    "name": "Konidala Pawan Kalyan",
+    "constituency": "PITHAPURAM",
+    "party": "JSP"
+  },
+  {
+    "name": "Chirri Balaraju",
+    "constituency": "POLAVARAM",
+    "party": "JSP"
+  },
+  {
+    "name": "Dhulipalla Narendra Kumar",
+    "constituency": "PONNUR",
+    "party": "TDP"
+  },
+  {
+    "name": "Varupula Satya Prabha",
+    "constituency": "PRATHIPADU",
+    "party": "TDP"
+  },
+  {
+    "name": "Burla Ramanjaneyulu",
+    "constituency": "PRATHIPADU (SC)",
+    "party": "TDP"
+  },
+  {
+    "name": "Nandyala Varada Rajula Reddy",
+    "constituency": "PRODDATUR",
+    "party": "TDP"
+  },
+  {
+    "name": "Ys Jagan Mohan Reddy",
+    "constituency": "PULIVENDLA",
+    "party": "YSRCP"
+  },
+  {
+    "name": "Peddireddi Ramachandra Reddy",
+    "constituency": "PUNGANUR",
+    "party": "YSRCP"
+  },
+  {
+    "name": "K Murali Mohan",
+    "constituency": "PUTHALAPATTU (SC)",
+    "party": "TDP"
+  },
+  {
+    "name": "Palle Sindhura Reddy",
+    "constituency": "PUTTAPARTHI",
+    "party": "TDP"
+  },
+  {
+    "name": "Kondru Murali Mohan",
+    "constituency": "RAJAM",
+    "party": "TDP"
+  },
+  {
+    "name": "Adireddy Srinivas",
+    "constituency": "RAJAMAHENDRAVARAM CITY",
+    "party": "TDP"
+  },
+  {
+    "name": "Gorantla Butchaiah Choudary",
+    "constituency": "RAJAMAHENDRAVARAM RURAL",
+    "party": "TDP"
+  },
+  {
+    "name": "Akepati Amarnath Reddy",
+    "constituency": "RAJAMPET",
+    "party": "YSRCP"
+  },
+  {
+    "name": "Bathula Balaramakrishna S/O Gangarao",
+    "constituency": "RAJANAGARAM",
+    "party": "JSP"
+  },
+  {
+    "name": "Vasamsetti. Subash",
+    "constituency": "RAMACHANDRAPURAM",
+    "party": "TDP"
+  },
+  {
+    "name": "Miriyala Sirisha Devi",
+    "constituency": "RAMPACHODAVARAM",
+    "party": "TDP"
+  },
+  {
+    "name": "Paritala Sunithamma",
+    "constituency": "RAPTADU",
+    "party": "TDP"
+  },
+  {
+    "name": "Mandipalli Ramprasad Reddy",
+    "constituency": "RAYACHOTI",
+    "party": "TDP"
+  },
+  {
+    "name": "Kalava Srinivasulu",
+    "constituency": "RAYADURG",
+    "party": "TDP"
+  },
+  {
+    "name": "Deva Varaprasad",
+    "constituency": "RAZOLE",
+    "party": "JSP"
+  },
+  {
+    "name": "Anagani Satya Prasad",
+    "constituency": "REPALLE",
+    "party": "TDP"
+  },
+  {
+    "name": "Gummidi Sandhyarani",
+    "constituency": "SALUR",
+    "party": "TDP"
+  },
+  {
+    "name": "Vijay Kumar B.N",
+    "constituency": "SANTHANUTHALAPADU (SC)",
+    "party": "TDP"
+  },
+  {
+    "name": "Chandra Mohan Reddy Somireddy",
+    "constituency": "SARVEPALLI",
+    "party": "TDP"
+  },
+  {
+    "name": "Kanna Lakshminarayana",
+    "constituency": "SATTENAPALLE",
+    "party": "TDP"
+  },
+  {
+    "name": "Koneti Adimulam",
+    "constituency": "SATYAVEDU",
+    "party": "TDP"
+  },
+  {
+    "name": "Bandaru Sravani Sree",
+    "constituency": "SINGANAMALA (SC)",
+    "party": "TDP"
+  },
+  {
+    "name": "Gondu Shankar",
+    "constituency": "SRIKAKULAM",
+    "party": "TDP"
+  },
+  {
+    "name": "Bojjala Venkata Sudhir Reddy",
+    "constituency": "SRIKALAHASTI",
+    "party": "TDP"
+  },
+  {
+    "name": "Budda Rajasekhara Reddy",
+    "constituency": "SRISAILAM",
+    "party": "TDP"
+  },
+  {
+    "name": "Kolla Lalitha Kumari",
+    "constituency": "SRUNGAVARAPUKOTA",
+    "party": "TDP"
+  },
+  {
+    "name": "Nelavala Vijayasree",
+    "constituency": "SULLURPETA",
+    "party": "TDP"
+  },
+  {
+    "name": "Bolisetty Srinivas",
+    "constituency": "TADEPALLIGUDEM",
+    "party": "JSP"
+  },
+  {
+    "name": "Tenali Sravan Kumar",
+    "constituency": "TADIKONDA (SC)",
+    "party": "TDP"
+  },
+  {
+    "name": "Ashmit Reddy J.C",
+    "constituency": "TADPATRI",
+    "party": "TDP"
+  },
+  {
+    "name": "Arimilli Radha Krishna",
+    "constituency": "TANUKU",
+    "party": "TDP"
+  },
+  {
+    "name": "Atchannaidu Kinjarapu",
+    "constituency": "TEKKALI",
+    "party": "TDP"
+  },
+  {
+    "name": "Nadendla Manohar",
+    "constituency": "TENALI",
+    "party": "JSP"
+  },
+  {
+    "name": "P. Dwarakanatha Reddy",
+    "constituency": "THAMBALLAPALLE",
+    "party": "YSRCP"
+  },
+  {
+    "name": "Aranii Srenevasulu",
+    "constituency": "TIRUPATI",
+    "party": "JSP"
+  },
+  {
+    "name": "Kolikapudi Srinivasa Rao",
+    "constituency": "TIRUVURU (SC)",
+    "party": "TDP"
+  },
+  {
+    "name": "Divya Yanamala",
+    "constituency": "TUNI",
+    "party": "TDP"
+  },
+  {
+    "name": "Kakarla Suresh",
+    "constituency": "UDAYAGIRI",
+    "party": "TDP"
+  },
+  {
+    "name": "Kanumuru Raghu Rama Krishna Raju (R R R)",
+    "constituency": "UNDI",
+    "party": "TDP"
+  },
+  {
+    "name": "Dharmaraju Patsamatla",
+    "constituency": "UNGUTUR",
+    "party": "JSP"
+  },
+  {
+    "name": "Payyavula Keshav",
+    "constituency": "URAVAKONDA",
+    "party": "TDP"
+  },
+  {
+    "name": "Ananda Babu Nakka",
+    "constituency": "VEMURU (SC)",
+    "party": "TDP"
+  },
+  {
+    "name": "Kurugondla Ramakrishna",
+    "constituency": "VENKATAGIRI",
+    "party": "TDP"
+  },
+  {
+    "name": "Bonda Umamaheswararao",
+    "constituency": "VIJAYAWADA CENTRAL",
+    "party": "TDP"
+  },
+  {
+    "name": "Gadde Rama Mohan",
+    "constituency": "VIJAYAWADA EAST",
+    "party": "TDP"
+  },
+  {
+    "name": "Yalamanchili Satyanarayana Chowdary (Sujana Chowdary)",
+    "constituency": "VIJAYAWADA WEST",
+    "party": "BJP"
+  },
+  {
+    "name": "Gonuguntla Venkata Siva Sita Rama Anzanneyllu",
+    "constituency": "VINUKONDA",
+    "party": "TDP"
+  },
+  {
+    "name": "Ramakrishna Babu Velagapudi",
+    "constituency": "VISAKHAPATNAM EAST",
+    "party": "TDP"
+  },
+  {
+    "name": "Vishnu Kumar Raju Penmetsa",
+    "constituency": "VISAKHAPATNAM NORTH",
+    "party": "BJP"
+  },
+  {
+    "name": "Ch.Vamsi Krishna Srinivas",
+    "constituency": "VISAKHAPATNAM SOUTH",
+    "party": "JSP"
+  },
+  {
+    "name": "P.G.V.R.Naidu(Ganababu)",
+    "constituency": "VISAKHAPATNAM WEST",
+    "party": "TDP"
+  },
+  {
+    "name": "Aditi Vijayalakshmi Gajapathi Raju Pusapati",
+    "constituency": "VIZIANAGARAM",
+    "party": "TDP"
+  },
+  {
+    "name": "Sundarapu Vijay Kumar",
+    "constituency": "YELAMANCHILI",
+    "party": "JSP"
+  },
+  {
+    "name": "B. Jayanageswara Reddy",
+    "constituency": "YEMMIGANUR",
+    "party": "TDP"
+  },
+  {
+    "name": "Chandra Sekhar Tatiparthi",
+    "constituency": "YERRAGONDAPALEM (SC)",
+    "party": "YSRCP"
+  }
+]

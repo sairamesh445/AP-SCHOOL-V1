@@ -1,0 +1,36 @@
+{
+  "name": "ap-school-backend",
+  "version": "1.0.0",
+  "description": "AP School Civic Education API",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "seed": "node seed.js",
+    "seed:quiz": "node seed-quiz-extended.js",
+    "seed:home": "node seed-home-content.js",
+    "seed:governance": "node seed-governance.js",
+    "seed:court": "node seed-court.js",
+    "seed:court:layout": "node seed-court-layout.js",
+    "seed:assembly": "node seed-assembly-layout.js",
+    "seed:civic": "node seed-civic.js",
+    "seed:refresh": "node scripts/fetch-mlas-2024-oneindia.mjs && node scripts/build-constituency-district-map.mjs && node scripts/build-mla-history.mjs && node scripts/enrich-mla-margins.mjs && node seed-refresh-official.js",
+    "seed:refresh:full": "node scripts/fetch-mlas-2024-oneindia.mjs && node scripts/build-constituency-district-map.mjs && node scripts/build-mla-history.mjs && node scripts/enrich-mla-margins.mjs && node seed-refresh-official.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "multer": "^2.1.1",
+    "uuid": "^14.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
