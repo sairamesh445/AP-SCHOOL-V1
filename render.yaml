@@ -9,7 +9,7 @@ services:
     runtime: node
     plan: free
     buildCommand: npm run build:deploy
-    startCommand: cd backend && (test -f data/database.json || npm run seed) && NODE_ENV=production node server.js
+    startCommand: cd backend && npm run seed:production && NODE_ENV=production node server.js
     envVars:
       - key: JWT_SECRET
         generateValue: true

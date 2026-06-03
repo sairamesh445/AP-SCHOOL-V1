@@ -20,14 +20,18 @@ After the first successful workflow run (Actions tab), the site is live at the U
 
 ---
 
-## Option B — Render (full app with login, one URL)
+## Option B — Render (full app with login, one URL) — **use this URL**
 
-**Best for:** Schools logging in, quizzes, admin dashboard.
+**Best for:** Schools logging in, quizzes, admin dashboard, Know AP, districts map.
 
 1. Go to https://render.com and sign in with GitHub.
 2. **New** → **Blueprint** → select repo **AP-SCHOOL-V1**.
 3. Render reads `render.yaml` and deploys automatically.
-4. Open your service URL (e.g. `https://ap-school-v1.onrender.com`).
+4. Open your **Render service URL** (e.g. `https://ap-school-v1.onrender.com`).
+
+On each deploy, the server runs the **full seed pipeline** (districts, civic data, quiz, welfare schemes, etc.).
+
+> **Do not use the GitHub Pages URL for testing login** — Pages has no backend API.
 
 Default admin after first deploy (from seed):
 
@@ -36,6 +40,8 @@ Default admin after first deploy (from seed):
 | admin    | admin123  |
 
 Change passwords before real use.
+
+**Free tier note:** Render may sleep after inactivity; first visit can take ~30–60 seconds to wake up.
 
 ---
 

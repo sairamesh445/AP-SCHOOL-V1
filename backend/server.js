@@ -22,6 +22,10 @@ if (!fs.existsSync(uploadsDir)) fs.mkdirSync(uploadsDir, { recursive: true });
 const app = express();
 const PORT = process.env.PORT || 5000;
 
+if (process.env.NODE_ENV === 'production') {
+  app.set('trust proxy', 1);
+}
+
 app.use(cors());
 app.use(express.json());
 app.use('/uploads', express.static(path.join(__dirname, 'uploads')));
@@ -45,10 +49,14 @@ app.get('/api/health', (_, res) => res.json({ status: 'ok' }));
 
 // Production: serve built React app from same origin (Render, VPS, etc.)
 const distPath = path.join(__dirname, '..', 'frontend', 'dist');
-if (process.env.NODE_ENV === 'production' && fs.existsSync(path.join(distPath, 'index.html'))) {
-  app.use(express.static(distPath));
-  app.get(/^(?!\/api|\/uploads).*/, (_req, res) => {
-    res.sendFile(path.join(distPath, 'index.html'));
+const distIndex = path.join(distPath, 'index.html');
+if (process.env.NODE_ENV === 'production' && fs.existsSync(distIndex)) {
+  app.use(express.static(distPath, { index: false, maxAge: '1h' }));
+  app.use((req, res, next) => {
+    if (req.method !== 'GET' && req.method !== 'HEAD') return next();
+    if (req.path.startsWith('/api') || req.path.startsWith('/uploads')) return next();
+    if (req.path.includes('.')) return next();
+    res.sendFile(distIndex);
   });
 }
 

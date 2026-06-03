@@ -18,7 +18,9 @@ async function request(path, options = {}) {
     res = await fetch(`${API_BASE}${path}`, { ...options, headers });
   } catch {
     throw new Error(
-      'Cannot reach the API server. Keep the backend running: open a terminal, run "cd backend" then "npm run dev" (or from project root: "npm start"). Backend must stay on http://localhost:5000.'
+      import.meta.env.PROD
+        ? 'Cannot reach the server. Wait a moment and refresh — the site may be starting up.'
+        : 'Cannot reach the API server. Keep the backend running: open a terminal, run "cd backend" then "npm run dev" (or from project root: "npm start"). Backend must stay on http://localhost:5000.'
     );
   }
 
