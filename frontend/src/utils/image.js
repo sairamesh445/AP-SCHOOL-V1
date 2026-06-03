@@ -1,4 +1,6 @@
-export const AP_GOV_LOGO = '/ap-gov-logo.png';
+import { publicAsset } from './assets.js';
+
+export const AP_GOV_LOGO = publicAsset('ap-gov-logo.png');
 
 const API_ORIGIN = import.meta.env.VITE_API_ORIGIN || '';
 

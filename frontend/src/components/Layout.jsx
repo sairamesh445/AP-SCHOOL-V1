@@ -69,7 +69,7 @@ export default function Layout() {
             </span>
           </button>
           <div className="navbar-brand">
-            <img src="/ap-gov-logo.png" alt="Government of Andhra Pradesh" className="ap-gov-logo" />
+            <img src={`${import.meta.env.BASE_URL}ap-gov-logo.png`} alt="Government of Andhra Pradesh" className="ap-gov-logo" />
             <span className="navbar-title">AP Civic Education</span>
           </div>
         </div>
@@ -168,7 +168,7 @@ export default function Layout() {
 
       <aside className={`sidebar${sidebarOpen ? ' open' : ''}`}>
         <div className="sidebar-header">
-          <img src="/ap-gov-logo.png" alt="" className="sidebar-logo" />
+          <img src={`${import.meta.env.BASE_URL}ap-gov-logo.png`} alt="" className="sidebar-logo" />
           <div>
             <p className="sidebar-app-name">AP Civic Education</p>
             <p className="sidebar-tagline">Andhra Pradesh</p>

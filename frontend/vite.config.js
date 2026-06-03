@@ -12,7 +12,10 @@ const apiProxy = {
   }
 };
 
+const repoBase = process.env.GITHUB_PAGES === 'true' ? '/AP-SCHOOL-V1/' : '/';
+
 export default defineConfig({
+  base: repoBase,
   plugins: [react()],
   server: {
     port: 3000,

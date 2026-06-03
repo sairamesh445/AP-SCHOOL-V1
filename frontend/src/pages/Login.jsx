@@ -29,7 +29,7 @@ export default function Login() {
   return (
     <div className="login-page">
       <div className="login-card">
-        <img src="/ap-gov-logo.png" alt="Government of Andhra Pradesh" className="login-logo" />
+        <img src={import.meta.env.BASE_URL + 'ap-gov-logo.png'} alt="Government of Andhra Pradesh" className="login-logo" />
         <h1>AP Civic Education Portal</h1>
         <p>Login with credentials provided by your school administrator</p>
         {error && <div className="error-msg">{error}</div>}

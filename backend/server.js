@@ -43,9 +43,21 @@ app.get('/api/auth/me', authMiddleware, (req, res) => {
 
 app.get('/api/health', (_, res) => res.json({ status: 'ok' }));
 
+// Production: serve built React app from same origin (Render, VPS, etc.)
+const distPath = path.join(__dirname, '..', 'frontend', 'dist');
+if (process.env.NODE_ENV === 'production' && fs.existsSync(path.join(distPath, 'index.html'))) {
+  app.use(express.static(distPath));
+  app.get(/^(?!\/api|\/uploads).*/, (_req, res) => {
+    res.sendFile(path.join(distPath, 'index.html'));
+  });
+}
+
 // Merge legacy hyphenated civic keys into camelCase on startup
 migrateCivicData();
 
 app.listen(PORT, () => {
   console.log(`AP School API running on http://localhost:${PORT}`);
+  if (process.env.NODE_ENV === 'production' && fs.existsSync(path.join(distPath, 'index.html'))) {
+    console.log('Serving frontend from frontend/dist');
+  }
 });

@@ -1,6 +1,45 @@
-# GitHub deployment notes
+# Live URLs for AP Civic Education Portal
 
-## After cloning this repo
+Repository: [github.com/sairamesh445/AP-SCHOOL-V1](https://github.com/sairamesh445/AP-SCHOOL-V1)
+
+---
+
+## Option A — GitHub Pages (free, GitHub URL)
+
+**Public URL:** https://sairamesh445.github.io/AP-SCHOOL-V1/
+
+### One-time setup (you do this once on GitHub)
+
+1. Open https://github.com/sairamesh445/AP-SCHOOL-V1/settings/pages
+2. Under **Build and deployment** → **Source**, choose **GitHub Actions**
+3. Save. The workflow `.github/workflows/deploy-github-pages.yml` runs on every push to `main`.
+
+After the first successful workflow run (Actions tab), the site is live at the URL above.
+
+> **Note:** GitHub Pages hosts only the **frontend**. Login and data need the API. For a **fully working** app with login, use **Option B (Render)** below.
+
+---
+
+## Option B — Render (full app with login, one URL)
+
+**Best for:** Schools logging in, quizzes, admin dashboard.
+
+1. Go to https://render.com and sign in with GitHub.
+2. **New** → **Blueprint** → select repo **AP-SCHOOL-V1**.
+3. Render reads `render.yaml` and deploys automatically.
+4. Open your service URL (e.g. `https://ap-school-v1.onrender.com`).
+
+Default admin after first deploy (from seed):
+
+| Username | Password  |
+|----------|-----------|
+| admin    | admin123  |
+
+Change passwords before real use.
+
+---
+
+## After cloning locally
 
 ```bash
 npm run install:all
@@ -8,16 +47,16 @@ cd backend && npm run seed && cd ..
 npm run start
 ```
 
-## Restore production data
+Restore production data: copy your backup to `backend/data/database.json`.
 
-`database.json` is **not** in GitHub (security). Copy your backup file to:
+---
 
-`backend/data/database.json`
+## Update the live site
 
-## Default platform admin (after seed)
+```bash
+git add .
+git commit -m "Your change description"
+git push origin main
+```
 
-| Username | Password  |
-|----------|-----------|
-| admin    | admin123  |
-
-Change passwords before production use.
+GitHub Pages redeploys automatically. Render redeploys on push if connected.

@@ -1,0 +1,17 @@
+# Full app (frontend + API) — deploy from https://github.com/sairamesh445/AP-SCHOOL-V1
+# 1. Sign up at https://render.com
+# 2. New → Blueprint → connect this GitHub repo
+# 3. After deploy, open the Render URL (login works with seeded admin)
+
+services:
+  - type: web
+    name: ap-school-v1
+    runtime: node
+    plan: free
+    buildCommand: npm run build:deploy
+    startCommand: cd backend && (test -f data/database.json || npm run seed) && NODE_ENV=production node server.js
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: JWT_SECRET
+        generateValue: true
