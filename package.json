@@ -13,7 +13,7 @@
     "preview": "concurrently \"npm run dev:backend\" \"cd frontend && npm run preview\"",
     "start": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
     "build:frontend": "cd frontend && npm run build",
-    "build:deploy": "cd frontend && npm ci && npm run build && cd ../backend && npm ci"
+    "build:deploy": "cd frontend && npm ci --include=dev && npm run build && cd ../backend && npm ci --omit=dev"
   },
   "devDependencies": {
     "concurrently": "^8.2.2"
