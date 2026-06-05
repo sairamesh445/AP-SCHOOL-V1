@@ -5,3 +5,8 @@ dist/
 backend/data/database.json
 backend/uploads/*
 !backend/uploads/.gitkeep
+!backend/uploads/*.png
+!backend/uploads/*.jpg
+!backend/uploads/*.jpeg
+!backend/uploads/*.gif
+!backend/uploads/*.webp
